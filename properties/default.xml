@@ -3,10 +3,10 @@
 <String id="LOCALE">German_Germany</String>
 
 	<!-- Framework Strings -->
-	<String id="DIALOG_BUTTON_YES">EVET</String>
-	<String id="DIALOG_BUTTON_NO">HAYIR</String>
-	<String id="DIALOG_BUTTON_OK">TAMAM</String>
-	<String id="DIALOG_BUTTON_CANCEL">IPTAL</String>
+	<String id="DIALOG_BUTTON_YES">YE LOL</String>
+	<String id="DIALOG_BUTTON_NO">NAH FAM</String>
+	<String id="DIALOG_BUTTON_OK">OK</String>
+	<String id="DIALOG_BUTTON_CANCEL">AY STOP</String>
 
 	<String id="UNEXPECTED_ERROR">Ein unerwarteter Fehler ist aufgetreten!  In dem du "Bericht senden" wählst, schickt du uns hilfreiche Debug-Informationen, die uns helfen können, dass Problem zu lösen. &cr;&cr;Du kannst auch unseren Kundendienst kontaktieren auf http://www.popcap.com/support.</String>
 
@@ -36,120 +36,120 @@
 	<String id="YOU_NEED_DIRECTX">Du benötigst DirectX.</String>
 
 	<!-- Dialog Buttons -->
-	<String id="DIALOG_BUTTON_YES">EVET</String>
-	<String id="DIALOG_BUTTON_NO">HAYIR</String>
-	<String id="DIALOG_BUTTON_OK">TAMAM</String>
-	<String id="DIALOG_BUTTON_CANCEL">IPTAL</String>
+	<String id="DIALOG_BUTTON_YES">YE LOL</String>
+	<String id="DIALOG_BUTTON_NO">NAH FAM</String>
+	<String id="DIALOG_BUTTON_OK">OK</String>
+	<String id="DIALOG_BUTTON_CANCEL">AY STOP</String>
 		
 	<!-- Update Dialog Stuff -->
-	<String id="UPDATE_CHECK_TITLE">Guncelleme Kontrolu</String>
-	<String id="UPDATE_CHECK_BODY">Bu urun icin herhangi bir guncelleme olup olmadigini belirlemek icin PopCap.com ile iletisime geciliyor...</String>
-	<String id="UP_TO_DATE_TITLE">Guncel</String>	
-	<String id="UP_TO_DATE_BODY">Su anda bu urun icin guncelleme mevcut degil.</String>
-	<String id="NEW_VERSION_TITLE">Yeni Surum</String>
- 	<String id="NEW_VERSION_BODY">Bu urun icin bir guncelleme var. Indirmek icin web sitesini ziyaret etmek ister misiniz?</String>
+	<String id="UPDATE_CHECK_TITLE">VIBE CHECK</String>
+	<String id="UPDATE_CHECK_BODY">We're contacting PopCap but like, I doub't there's any new vibes.</String>
+	<String id="UP_TO_DATE_TITLE">Yep, look all good.</String>	
+	<String id="UP_TO_DATE_BODY">No current vibes..</String>
+	<String id="NEW_VERSION_TITLE">Vibe check failed.</String>
+ 	<String id="NEW_VERSION_BODY">Do you wanna get some new vibes?</String>
 
 	<!-- Exception Dialog Stuff -->
-	<String id="BUG_REPORT_TITLE">Olumcul Hata</String>
-	<String id="BUG_REPORT_BODY">Programda bir seyler ters gitti.&cr;Bir hata raporu olusturuldu ve Zylom'a gonderilebilir.&cr;Bu rapor, sorunun nedenini bulmamiza yardimci olacaktir.&cr;Raporun gonderilmesi icin etkin bir Internet baglantısı gerekir.&cr;&cr;Hata raporunu gondermek ister misiniz?</String>
+	<String id="BUG_REPORT_TITLE">Whoops! Just Died!</String>
+	<String id="BUG_REPORT_BODY">Something went wrong with the program.&cr;An error report has been created and can be sent to Zylom.&cr;This report will help us to find the cause of the problem.&cr;Sending the report requires an active Internet connection.&cr;&cr;Would you like to send the error report?</String>
 	
 	<!-- Board -->
-	<String id="EXCELLENT">MUKEMMEL!</String>
-	<String id="NO_MOVES">HAMLE KALMADI!</String>
-	<String id="LEVEL_">SEVIYE %d</String>
-	<String id="GO">BASLA!</String>
-	<String id="TIME_UP">SURE BITTI!</String>
-	<String id="GAME_PAUSED">*** OYUN DURDURULDU ***</String>
-	<String id="CLICK_HERE_TO_CONTINUE">Devam etmek icin buraya tiklayin!</String>
-	<String id="PLAY_AGAIN">Tekrar oyna</String>
-	<String id="MAIN_MENU">Ana Menu</String>
-	<String id="COMPLETE">TAMAMLANDI!</String>
-	<String id="WARP_READY">ISINLAMA HAZIR</String>
-	<String id="SOLVED">COZULDU!</String>
-	<String id="POWER_GEM">GUC TASI</String>
-	<String id="CREATE_POWER_GEMS_1">Aynı renkteki dort tasi birlestirerek bir Guc Tasi olusturun. Bir hamlede kullanirsaniz bu taslar patlar, bu da daha fazla puan demektir!</String>
-	<String id="CREATE_POWER_GEMS_2">Ayni renkteki dort tasi birlestirdiniz ve bir Guc Tasi olusturdunuz. Bir hamlede kullanirsaniz bu taslar patlar, bu da daha fazla puan demektir!</String>
-	<String id="CREATE_POWER_GEMS_3">Aynı renkteki dort tasi birlestirerek bir Guc Tasi olusturun.&cr;Bir hamlede kullanırsanız bu taslar patlar, bu da daha fazla puan demektir!</String>
-	<String id="CREATE_POWER_GEMS_4">Ayni renkteki dort tasi birlestirdiniz ve bir Guc Tasi olusturdunuz.&cr;Bir hamlede kullanirsaniz bu taslar patlar, bu da daha fazla puan demektir!</String>
-	<String id="DONT_SHOW_AGAIN">Bir daha gosterme</String>
-	<String id="CONTINUE">Devam et</String>
-	<String id="HYPER_CUBE">HIPERKUP</String>
-	<String id="CREATE_HYPER_CUBE">Aynı renkteki bes tasi birlestirdiniz ve bir Hiperkup olusturdunuz. Herhangi bir tasla hareket ettirirseniz renginin tum taslari kaybolur!</String>
-	<String id="SHOW_AGAIN">Tekrar Goster</String>
-	<String id="RESET_PUZZLE">Yapbozu Sifirlayin</String>
-	<String id="WRONG_PIECE">Yanlis Tas</String>
-	<String id="SELECT_PIECE">Lutfen "BURAYA TIKLAYIN" okunun isaret ettigi tasi secin.</String>
-	<String id="ILLEGAL_MOVE">Gecersiz Hamle</String>
-	<String id="SELECT_ADJACENT">İki bitisik tas secmelisiniz.</String>
-	<String id="WRONG_SPOT">Yanlis Nokta</String>
-	<String id="CLICK_LOCATION">Lutfen "BURAYA TIKLAYIN" okunun isaret ettigi yere tiklayin.</String>
-	<String id="23_PLANETS_LEFT">23 GEZEGEN KALDI</String>
-	<String id="EACH_SWAP">Her hamlede bir rengin en az uc ya da daha fazla tasi temizlenmelidir.</String>
-	<String id="MODE_UNLOCKED">MODUN KILIDI ACILDI</String>
-	<String id="UNLOCKED_SECRET">Gizli bir oyun modunun kilidini actiniz!&cr;&cr;Kilidini actiginiz oyun moduna artik ana menuden erisebilirsiniz.</String>
-	<String id="NO_HINTS">Ipucu mevcut degil</String>
-	<String id="NO_HINTS_AVAILABLE">Bu yapboz icin ipuclari mevcut degildir..</String>
-	<String id="NO_LONGER_SOLVABLE">Artik cozulemez</String>
-	<String id="UNDO_TO_SOLVABLE">Yapbozun en son cozulebildigi noktasina donmek ister misiniz?</String>
-	<String id="STILL_SOLVABLE">Hala cozulebilir!</String>
-	<String id="STILL_SOLVABLE_HINT">Bu yapboz hala bu noktada cozulebilir&cr;Hangi hamlenin yapilabilecegine dair bir ipucu ister misiniz?</String>
-	<String id="_PLANETS_LEFT">%d GEZEGEN KALDI</String>
-	<String id="LEVEL">SEVIYE %d</String>
-	<String id="INCREDIBLE">INANILMAZ</String>
-	<String id="MORE_HINTS">Daha fazla ipucu?</String>
+	<String id="EXCELLENT">FUCKIN CLASS!</String>
+	<String id="NO_MOVES">NO MORE MOVES!</String>
+	<String id="LEVEL_">SPECIAL STAGE %d</String>
+	<String id="GO">GO!!!!!!!</String>
+	<String id="TIME_UP">WAKE UP!</String>
+	<String id="GAME_PAUSED">*** Mate, the game's stopped ***</String>
+	<String id="CLICK_HERE_TO_CONTINUE">cmon keep playing.</String>
+	<String id="PLAY_AGAIN">Wanna give it another shot?</String>
+	<String id="MAIN_MENU">Central Hub</String>
+	<String id="COMPLETE">ALL DONE!</String>
+	<String id="WARP_READY">READY TO NUT</String>
+	<String id="SOLVED">NICE ONE!</String>
+	<String id="POWER_GEM">IMPROVISED EXPLOSIVE</String>
+	<String id="CREATE_POWER_GEMS_1">Fiat 500 Flip!</String>
+	<String id="CREATE_POWER_GEMS_2">I just crapped my pants!</String>
+	<String id="CREATE_POWER_GEMS_3">You have planted an IED on my porch, shit...</String>
+	<String id="CREATE_POWER_GEMS_4">help me!</String>
+	<String id="DONT_SHOW_AGAIN">I already know slag</String>
+	<String id="CONTINUE">Continue</String>
+	<String id="HYPER_CUBE">HYPERCUBOLOID</String>
+	<String id="CREATE_HYPER_CUBE">What have you done? You've doomed us all!!</String>
+	<String id="SHOW_AGAIN">Alzheimers</String>
+	<String id="RESET_PUZZLE">Start over cunt</String>
+	<String id="WRONG_PIECE">Wrong Piece</String>
+	<String id="SELECT_PIECE">Select the piece lol.</String>
+	<String id="ILLEGAL_MOVE">What the fuck mate?</String>
+	<String id="SELECT_ADJACENT">Use the adjacent pieces.</String>
+	<String id="WRONG_SPOT">Wrong spot xd.</String>
+	<String id="CLICK_LOCATION">Click location???</String>
+	<String id="23_PLANETS_LEFT">23 NUGGETS LEFT</String>
+	<String id="EACH_SWAP">MAN YOUR SUPPOSED TO MATCH THEM YOU ARESHOLE GET OFF THE BUS!</String>
+	<String id="MODE_UNLOCKED">New mode lol.</String>
+	<String id="UNLOCKED_SECRET">Yada yada yada!&cr;&cr;I can't read turkish lol.</String>
+	<String id="NO_HINTS">NO HINTS BITCH</String>
+	<String id="NO_HINTS_AVAILABLE">Life is hintless, so is this game.</String>
+	<String id="NO_LONGER_SOLVABLE">Bro, you can't solve this xd</String>
+	<String id="UNDO_TO_SOLVABLE">Might wanna go back in time to fix that.</String>
+	<String id="STILL_SOLVABLE">BITCH THIS SHIT SOLVABLE!</String>
+	<String id="STILL_SOLVABLE_HINT">STILL SOLVABLE&cr;HINT?</String>
+	<String id="_PLANETS_LEFT">%d NUGGETS LEFT</String>
+	<String id="LEVEL">VIBE %d</String>
+	<String id="INCREDIBLE">YOOOOOOOO!!!</String>
+	<String id="MORE_HINTS">Want some hints bud?</String>
 	<String id="ONE_OR_MORE_MOVES_UNDONE">Bu yapbozun cozulebilmesi icin en az bir veya daha fazla hamle geri alindi.&cr;&cr;Hangi hamlenin devam etmek icin en iyi yol oldugunu gormek istiyorsaniz "Ipucu" butonuna tekrar tiklayin.</String>
-	<String id="BACK_MAIN_MENU">Ana menuye geri don</String>
-	<String id="PRESS_WARP">Sonraki gezegene gitmek icin "ISINLA" butonuna tiklayin!</String>
-	<String id="PRESS_WARP_1">Sonraki gezegene gitmek icin "ISINLA" butonuna tiklayin &cr;ya da buyuk zafer icin gezegeni son yapbozuna kadar cozun!</String>
-	<String id="BEAT_PUZZLE">ya da buyuk zafer icin gezegeni son yapbozuna kadar cozun!</String>
-	<String id="SELECT_PUZZLE">Yeni bir yapboz icin soldaki yuvarlaklardan birine tiklayin.</String>
-	<String id="NO_MOVES_POSSIBLE">Bu noktada artik hamle yapilamaz.</String>
-	<String id="UNDO_1">Bu noktada artik hamle yapilamaz. &cr;"GERI AL" butonuyla birkac hamleyi geri alin,&cr;cozulebilir olan en son hamle noktasina gitmek icin &cr;"IPUCU" butonuna tiklayin, YA DA</String>
-	<String id="PRESS_HINT_1">cozulebilir olan son yapboz hamlesi icin "IPUCU" butonuna &cr;tiklayin,</String>
-	<String id="OR">YA DA</String>
-	<String id="UNDO_2">Bu noktada artik hamle yapilamaz. &cr;"GERI AL" butonuyla birkac hamleyi geri alin &cr;ya da yapboza bastan baslamak icin&cr;yapbozun secili oldugu yuvarlaga tiklayin.</String>
-	<String id="RESET">soldaki yapboz yuvarlagina tiklayarak &cr;bastan baslayin.</String>
+	<String id="BACK_MAIN_MENU">Back to the Central Hub</String>
+	<String id="PRESS_WARP">cmon warp already!</String>
+	<String id="PRESS_WARP_1">Warpage &cr;I cannot ready any of this document!</String>
+	<String id="BEAT_PUZZLE">You beat the puzzle like you beat your wife!</String>
+	<String id="SELECT_PUZZLE">Hurry up and pick a puzzle.</String>
+	<String id="NO_MOVES_POSSIBLE">What? Impossible! Moves are all gone?!</String>
+	<String id="UNDO_1">uhhhhhhh. &cr;I think this means you can undo but honestly i dunno</String>
+	<String id="PRESS_HINT_1">Press a hit or something &cr;lol,</String>
+	<String id="OR">OR</String>
+	<String id="UNDO_2">WHAT DOES THIS MEAN??? &cr;BEJEWELED 2 DOES NOT HAVE THIS MUCH TEXT.</String>
+	<String id="RESET">AAAAAAAAAAAAA &cr;RESET.</String>
 	<String id="PRESS_HINT_2">Bu noktada artik hamle yapilamaz. &cr; "GERI AL" butonuyla birkac hamleyi geri alin &cr;ya da yapboza bastan baslamak icin &cr;yapbozun secili oldugu yuvarlaga tiklayin. &cr;Ne yapacaginizi bilmiyorsaniz "IPUCU" butonuna tiklayin!</String>
-	<String id="COGNITO">FARKINDALIK modu tamamlandi. &cr;%d yapbozun %d 'i ipucu alinmadan cozuldu.</String>
-	<String id="PUZZLES_SOLVED_1">%d yapbozun %d 'i ipucu alinmadan cozuldu.</String>
-	<String id="GALAXY_COMPLETED">GALAKSI TAMAMLANDI</String>
-	<String id="WARNING_!">Dikkat edin!</String>
-	<String id="NOT_SCORE">Ipuclarini goruntulerseniz bu yapbozdan puan alamazsiniz.&cr;&cr;Yine de goruntulemek istiyor musunuz?</String>
-	<String id="TIMER_BAR">Sureye dikkat edin!</String>
-	<String id="WATCH_OUT_FOR_TIMER_BAR">Asagidaki zaman gostergesine dikkat edin. Tamamladiginiz her seviye icin daha hizli biter. Tamamen bos olursa kaybedersiniz!</String>
-	<String id="FINAL_PLANET">SON GEZEGEN!</String>
+	<String id="COGNITO">COGNITO MODE ISN'T REAL. &cr;%d I AM SURROUNDED BY NUMBERS %d 'AAAAAAAAAAA.</String>
+	<String id="PUZZLES_SOLVED_1">%d I AM ALSO SURRONDED BY NUMBERS %d 'i HELMP.</String>
+	<String id="GALAXY_COMPLETED">GALAXY BLOWN UP LOL</String>
+	<String id="WARNING_!">WOAH STOP!</String>
+	<String id="NOT_SCORE">NOT SCORE.&cr;&cr;idk thats what the id of this string is xd.</String>
+	<String id="TIMER_BAR">Yeah yeah, theres a timer or something.</String>
+	<String id="WATCH_OUT_FOR_TIMER_BAR">if the timer runs out i will eliminate everyone you love!</String>
+	<String id="FINAL_PLANET">SPACE THE FINAL FRONTIER</String>
 	
 	<!-- CreateUserDialog -->
-	<String id="PLEASE_ENTER_NAME">Lutfen isminizi girin.</String>
-	<String id="RENAME_USER">YENIDEN ADLANDIR</String>
-	<String id="NEW_USER">YENI KULLANICI</String>
+	<String id="PLEASE_ENTER_NAME">What ya called g?</String>
+	<String id="RENAME_USER">Yo, you changed your name?</String>
+	<String id="NEW_USER">Birth a child</String>
 	
 	<!-- GalaxyMap -->
-	<String id="PLANET_LOCKED">Gezegen Kilitli</String>
-	<String id="PLANET_UNAVAILABLE">Bu gezegene ulasabilmek icin bes yapbozun en az dordunu cozmelisiniz.</String>
+	<String id="PLANET_LOCKED">That bitch locked</String>
+	<String id="PLANET_UNAVAILABLE">Nah nah nah...this shithole ain't avaliable</String>
 	
 	<!-- HelpScreen -->
-	<String id="HOW_TO_PLAY">Nasil oynanir</String>
-	<String id="BACK_TO_GAME">Oyuna geri don</String>
-	<String id="BACK_TO_MENU">Menuye geri don</String>
-	<String id="SWAP_ADJACENT">UCLU SET OLUSTURMAK ICIN TASLARI HAREKET ETTIRIN.</String>
-	<String id="CLEAR_MULTIPLE">COKLU GRUPLAR DAHA FAZLA PUAN VERIR.</String>
-	<String id="4_GEMS">DORTLU SETLER GUC TASI KAZANDIRIR.</String>
-	<String id="5_GEMS">BESLI SETLER HIPERKUP KAZANDIRIR.</String>
+	<String id="HOW_TO_PLAY">Look here, lemme teach ya...</String>
+	<String id="BACK_TO_GAME">cmon back to the action</String>
+	<String id="BACK_TO_MENU">Back to the Central Hub</String>
+	<String id="SWAP_ADJACENT">Mate, swap the shit next to each other ye?</String>
+	<String id="CLEAR_MULTIPLE">WOAHHHHH CASCADE TIME BAYBEEEE!</String>
+	<String id="4_GEMS">You have just made an IED.</String>
+	<String id="5_GEMS">You have crafted the unmatched power of the sun.</String>
 	
 	<!-- MainMenu -->
-	<String id="CLICK">Degistirmek icin tiklayin.</String>
-	<String id="WELCOME">Hosgeldiniz!</String>
-	<String id="WELCOME_BACK">Tekrar Hosgeldiniz!</String>
+	<String id="CLICK">Adam Sandler's Click</String>
+	<String id="WELCOME">Yo wassup homie?</String>
+	<String id="WELCOME_BACK">Welcome back to the crib man!</String>
 	<String id="WELCOME_DM">DIAMOND MINE 2'ye hosgeldiniz!</String>
 	<String id="NEVER_PLAYED_DM">DIAMOND MINE 2'yi ilk kez oynuyorsaniz once ozgun modu denemek en iyisi olacaktir.</String>
 	<String id="WELCOME_BEJ2">Hosgeldiniz!</String>
 	<String id="NEVER_PLAYED_BEJ2">BEJEWELED 2'yi ilk kez oynuyorsaniz once ozgun modu denemek en iyisi olacaktir.</String>
 	
 	<!-- MoreGames -->
-	<String id="MORE_GAMES">Daha fazla oyun</String>
-	<String id="RETURN">Ana menuye geri don</String>
-	<String id="ENJOYED_BEJ2">BEJEWELED 2 HOSUNUZA GITTIYSE DIGER OYUNLARDAN BAZILARINI DA DENEYEBILIRSINIZ</String>
+	<String id="MORE_GAMES">More torture</String>
+	<String id="RETURN">Get outta here</String>
+	<String id="ENJOYED_BEJ2">BEJEWELED 2 lol</String>
 	
 	<!-- HighScoreDialog -->
 	<String id="HSDLG_HIGH_SCORES">PUANLAR</String>
@@ -232,39 +232,39 @@
 	<String id="HSWIDGET_PUZZLES_SOLVED_2">Cozulen Yapbozlar: %d</String>
 	
 	<!-- OptionsDialog -->
-	<String id="OPTIONSDLG_OPTIONS">Ayarlar</String>
-	<String id="OPTIONSDLG_DONE">Tamam</String>
-	<String id="OPTIONSDLG_HELP">Yardim</String>
-	<String id="OPTIONSDLG_REGISTER">Kayit yaptir</String>
-	<String id="OPTIONSDLG_HIGH_SCORES">Puanlar</String>
+	<String id="OPTIONSDLG_OPTIONS">Options</String>
+	<String id="OPTIONSDLG_DONE">Ye all good</String>
+	<String id="OPTIONSDLG_HELP">fuck, im lost</String>
+	<String id="OPTIONSDLG_REGISTER">register as a sex offender</String>
+	<String id="OPTIONSDLG_HIGH_SCORES">Top blokes</String>
 	<String id="OPTIONSDLG_CLICK_HERE_TO_TRY_ALCHEMY">ALCHEMY'i denemek icin buraya tiklayin.</String>
 	<String id="OPTIONSDLG_VISIT_POPCAP_FOR_MORE_GAMES">Daha fazla oyun bulmak icin PopCap.com'u ziyaret edin.</String>
 	<String id="OPTIONSDLG_CHECK_FOR_UPDATES">Guncellemeleri kontrol et</String>
-	<String id="OPTIONSDLG_MUSIC">Muzik</String>
-	<String id="OPTIONSDLG_SOUND_FX">Ses efektleri</String>
-	<String id="OPTIONSDLG_FULLSCREEN">Tam Ekran</String>
-	<String id="OPTIONSDLG_CUSTOM_CURSORS">Ozel Imlec</String>
+	<String id="OPTIONSDLG_MUSIC">Sick beats</String>
+	<String id="OPTIONSDLG_SOUND_FX">Explosive Volume</String>
+	<String id="OPTIONSDLG_FULLSCREEN">Steam Big Picture Mode</String>
+	<String id="OPTIONSDLG_CUSTOM_CURSORS">Dank Cursor</String>
 	<String id="VISIT_POPCAP">Daha fazla oyun bulmak icin PopCap.com'u ziyaret edin.</String>
-	<String id="MUSIC_VOLUME">Muzik</String>
-	<String id="SOUND_EFFECTS">Ses efektleri</String>
-	<String id="FULL">Tam</String>
-	<String id="SCREEN">Ekran</String>
-	<String id="HARDWARE">Donanim</String>
-	<String id="ACCELERATE">ivmesi</String>
-	<String id="CUSTOM">Ozel</String>
-	<String id="CURSORS">Imlec</String>
-	<String id="HIGH">Yuksek</String>
-	<String id="RESOLUTION">Cozunurluk</String>
-	<String id="AUTOMATIC">Otomatik</String>
-	<String id="UPDATE">Guncelleme</String>
-	<String id="RANDOM">Rastgele</String>
-	<String id="BACKDROPS">Arka plan</String>
-	<String id="NO_WINDOWED_MODE">Pencere modu yok</String>
-	<String id="DESKTOP_RESOLUTION">Windows ekran cozunurlugunuz, pencereli moda gecebilmek icin yeterince yuksek degil.</String>
-	<String id="FULL_SCREEN_?">Tam Ekran</String>
-	<String id="FULL_SCREEN_ENABLED">Yuksek cozunurluk icin tam ekran modu etkinlestirilmelidir.&cr;&cr;Etkinlestirilsin mi?</String>
-	<String id="WINDOWED_MODE_NOT_AVAIL">Pencereli modu kullanabilmek icin bilgisayariniz 16-bit veya 32-bit renk düzeyi modunda calismalidir.</String>
-	<String id="CHANGE_RESOLUTION_?">Cozunurlugu degistir</String>
+	<String id="MUSIC_VOLUME">Sick beats</String>
+	<String id="SOUND_EFFECTS">Explosive Volume</String>
+	<String id="FULL">Steam Big</String>
+	<String id="SCREEN">Picture Mode</String>
+	<String id="HARDWARE">Harddrive</String>
+	<String id="ACCELERATE">Speed-up</String>
+	<String id="CUSTOM">Dank</String>
+	<String id="CURSORS">Cursor</String>
+	<String id="HIGH">8K</String>
+	<String id="RESOLUTION">Textures</String>
+	<String id="AUTOMATIC">AI controlled</String>
+	<String id="UPDATE">Game data</String>
+	<String id="RANDOM">Lucky dip</String>
+	<String id="BACKDROPS">For Tonight</String>
+	<String id="NO_WINDOWED_MODE">Something about windows?</String>
+	<String id="DESKTOP_RESOLUTION">e.</String>
+	<String id="FULL_SCREEN_?">Steam Big Picture Mode</String>
+	<String id="FULL_SCREEN_ENABLED">Uhhh options yes.&cr;&cr;maybe?</String>
+	<String id="WINDOWED_MODE_NOT_AVAIL">You cant go windowed because your pc sucks ass.</String>
+	<String id="CHANGE_RESOLUTION_?">enable 8k textures?</String>
 	<String id="DISABLE_HIGH_RESOLUTION_WINDOWED">Yuksek cozunurluk, pencereli mod icin devre disi birakilmalidir.&cr;&cr;Devre disi birakilsin mi?</String>
 	<String id="ENABLE_HIGH_RESOLUTION_FULL_SCREEN">Tam ekran modunda yuksek cozunurluk modu onerilir.&cr;&cr;Etkinlestirilsin mi?</String>
 	<String id="NOT_SUPPORTED">Desteklenmiyor</String>
@@ -280,8 +280,8 @@
 	<String id="ENABLE_HIGH_RESOLUTION_HARDWARE_RES">Donanim hizlandirmasi etkinlestirilmeden yuksek cozunurluk kullanilirsa oyun performansi dusebilir.&cr;&cr;Yine de etkinlestirilsin mi?</String>
 	<String id="LOW_RESOLUTION">Cozunurluk Dusurulsun Mu?</String>
 	<String id="DISABLE_HIGH_RESOLUTION_GRAPHICS_QUALITY">Yuksek cozunurluk devre disi birakilirsa goruntu kalitesi duser.&cr;&cr;Devre disi birakilsin mi?</String>
-	<String id="RANDOM_BACKDROPS_?">Rastgele Arka Plan</String>
-	<String id="ENABLING_RANDOM_BACKDROPS">Bu secenek etkinlestirilirse gezegenlerin arka planlari her oynayisinizda degisir.&cr;&cr;Etkinlestirilsin mi?</String>
+	<String id="RANDOM_BACKDROPS_?">EUROMILLIONS</String>
+	<String id="ENABLING_RANDOM_BACKDROPS">It's 2 quid for a ticket.&cr;&cr;You still wanna enter?</String>
 	
 	<!-- PuzzlePackSelector -->
 	<String id="SELECT_PUZZLE_PACK">Yapboz paketi secin</String>
@@ -331,10 +331,10 @@
 	<String id="REGISTER_NOW_?">Jetzt registrieren</String>
 	
 	<!-- UserDialog -->
-	<String id="WHO_ARE_YOU">Kimsiniz?</String>
-	<String id="RENAME">YENIDEN ADLANDIR</String>
-	<String id="DELETE">SIL</String>
-	<String id="CREATE_NEW_USER">(Yeni bir kullanici olusturun)</String>
+	<String id="WHO_ARE_YOU">bro, tf are you?</String>
+	<String id="RENAME">chage sims name</String>
+	<String id="DELETE">destroy</String>
+	<String id="CREATE_NEW_USER">(give birth)</String>
 	
 	<!-- WinDMApp -->
 	<String id="URL">http://www.popcap.com</String>
