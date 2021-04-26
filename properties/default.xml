@@ -43,8 +43,8 @@
 		
 	<!-- Update Dialog Stuff -->
 	<String id="UPDATE_CHECK_TITLE">VIBE CHECK</String>
-	<String id="UPDATE_CHECK_BODY">We're contacting PopCap but like, I doub't there's any new vibes.</String>
-	<String id="UP_TO_DATE_TITLE">Yep, look all good.</String>	
+	<String id="UPDATE_CHECK_BODY">We're contacting PopCap but like, I doubt there's any new vibes.</String>
+	<String id="UP_TO_DATE_TITLE">Yep, looks all good.</String>	
 	<String id="UP_TO_DATE_BODY">No current vibes..</String>
 	<String id="NEW_VERSION_TITLE">Vibe check failed.</String>
  	<String id="NEW_VERSION_BODY">Do you wanna get some new vibes?</String>
