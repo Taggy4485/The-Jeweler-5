@@ -1,0 +1,1165 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<InstallLog>
+	<InstallName>Bejeweled 2 Deluxe</InstallName>
+	<AppDataSuffix>%InstallGroup%\%ProdName%</AppDataSuffix>
+	<UninstallDeltree>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe</UninstallDeltree>
+	<UninstallDeltree>C:\ProgramData\PopCap Games\Bejeweled2</UninstallDeltree>
+	<UninstallDeltree>C:\ProgramData\Microsoft\Windows\Start Menu\Programs\PopCap Games\Bejeweled 2 Deluxe</UninstallDeltree>
+	<UserDirectory>C:\ProgramData\PopCap Games\Bejeweled2\images</UserDirectory>
+	<UserDirectory></UserDirectory>
+	<UserDirectory>C:\ProgramData\PopCap Games\Bejeweled2\images\backdrops</UserDirectory>
+	<UserDirectory></UserDirectory>
+	<UserDirectory>C:\ProgramData\PopCap Games\Bejeweled2\puzzles</UserDirectory>
+	<UserDirectory></UserDirectory>
+	<UserDirectory>C:\ProgramData\PopCap Games\Bejeweled2\users</UserDirectory>
+	<UserDirectory></UserDirectory>
+	<UninstallDelRegKey>HKLM\SOFTWARE\PopCap\Bejeweled2</UninstallDelRegKey>
+	<UninstallDelRegKey>HKCU\SOFTWARE\PopCap\Bejeweled2</UninstallDelRegKey>
+	<UserRegKey>HKCU\SOFTWARE\PopCap\Bejeweled2</UserRegKey>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\bass.dll</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\Bejeweled2.dat</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\Bejeweled2.exe</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\BombFont.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\BombFont.txt</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\ContinuumBold11.txt</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\ContinuumBold11glow.txt</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\ContinuumBold14.txt</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\ContinuumBold14glow.txt</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\ContinuumBold26.txt</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\ContinuumBold27score.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\ContinuumBold27score.txt</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\ContinuumBold60outline.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\ContinuumBold60outline.txt</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\ContinuumMedium12.txt</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\ContinuumMedium12outline.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\ContinuumMedium12outline.txt</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\ContinuumMedium12outline_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\ContinuumMedium13.txt</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\ContinuumMedium14.txt</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\ContinuumMedium14glow.txt</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\ContinuumMedium18outline.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\ContinuumMedium18outline.txt</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\ContinuumMedium9.txt</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\ContinuumMedium9glow.txt</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\Halfmoon30.txt</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\QuincyCaps74gold2.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\QuincyCaps74gold2.txt</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\VAGRoundedBT11.txt</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\wh_ContinuumMedium18.txt</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\wh_ContinuumMedium18glow.txt</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\wh_ContinuumMedium33.txt</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\wh_ContinuumMedium33glow.txt</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\_Cancun14.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\_ContinuumBold11.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\_ContinuumBold11glow.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\_ContinuumBold14.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\_ContinuumBold14glow.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\_ContinuumBold26.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\_ContinuumBold27score.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\_ContinuumBold60outline.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\_ContinuumMedium12.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\_ContinuumMedium13.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\_ContinuumMedium14.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\_ContinuumMedium14glow.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\_ContinuumMedium18.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\_ContinuumMedium18glow.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\_ContinuumMedium18outline.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\_ContinuumMedium33.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\_ContinuumMedium33glow.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\_ContinuumMedium9.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\_ContinuumMedium9glow.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\_Halfmoon30.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\_QuincyCaps74gold2.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\data\_VAGRoundedBT11.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\box_art.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\box_art_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\drm.xml</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\drm.xml.sig</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\fonts\Arial10.txt</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\fonts\Arial10Bold.txt</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\fonts\Arial12Bold.txt</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\fonts\Arial9.txt</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\fonts\Arial9Bold.txt</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\fonts\Calibri11.txt</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\fonts\Calibri11_layer0_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\fonts\Calibri12.txt</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\fonts\Calibri12_layer0_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\fonts\OmnesMedium14.txt</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\fonts\OmnesMedium14_layer0_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\fonts\OmnesMedium18.txt</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\fonts\OmnesMedium18_layer0_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\fonts\OmnesMedium20.txt</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\fonts\OmnesMedium20_layer0_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\fonts\OmnesMedium24.txt</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\fonts\OmnesMedium24_layer0_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\fonts\OmnesRegular14.txt</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\fonts\OmnesRegular14_layer0_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\fonts\_Arial10.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\fonts\_Arial10Bold.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\fonts\_Arial12Bold.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\fonts\_Arial9.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\fonts\_Arial9Bold.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\help.txt</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\common\already_purchased.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\common\already_purchased_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\common\already_purchased_down.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\common\already_purchased_down_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\common\already_purchased_label.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\common\already_purchased_over.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\common\already_purchased_over_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\common\bbb.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\common\btn_help.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\common\btn_help_down.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\common\btn_help_over.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\common\btn_security.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\common\btn_security_down.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\common\btn_security_down_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\common\btn_security_over.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\common\bullet_short.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\common\bullet_tall.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\common\popcap_logo.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\common\popcap_logo_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\intro\btn_buy_now.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\intro\btn_buy_now_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\intro\btn_buy_now_down.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\intro\btn_buy_now_down_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\intro\btn_buy_now_over.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\intro\btn_buy_now_over_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\intro\btn_play_trial.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\intro\btn_play_trial_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\intro\btn_play_trial_down.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\intro\btn_play_trial_down_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\intro\btn_play_trial_over.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\intro\btn_play_trial_over_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\intro\btn_screenshot_next.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\intro\btn_screenshot_next_down.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\intro\btn_screenshot_next_over.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\intro\btn_screenshot_pause.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\intro\btn_screenshot_pause_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\intro\btn_screenshot_pause_down.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\intro\btn_screenshot_pause_down_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\intro\btn_screenshot_pause_over.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\intro\btn_screenshot_pause_over_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\intro\btn_screenshot_play.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\intro\btn_screenshot_play_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\intro\btn_screenshot_play_down.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\intro\btn_screenshot_play_down_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\intro\btn_screenshot_play_over.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\intro\btn_screenshot_play_over_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\intro\btn_screenshot_prev.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\intro\btn_screenshot_prev_down.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\intro\btn_screenshot_prev_over.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\intro\intro_bg.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\intro\play_reflection.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\intro\screenshot_bg.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\intro\screenshot_bg_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\modal\btn_close.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\modal\btn_close_down.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\modal\btn_close_down_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\modal\btn_close_over.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\modal\modal_bg.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\modal\modal_overlay.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\modal\modal_overlay_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\outro\btn_buy_now.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\outro\btn_buy_now_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\outro\btn_buy_now_down.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\outro\btn_buy_now_down_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\outro\btn_buy_now_over.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\outro\btn_buy_now_over_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\outro\btn_get_more.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\outro\btn_get_more_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\outro\btn_get_more_down.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\outro\btn_get_more_down_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\outro\btn_get_more_over.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\outro\btn_get_more_over_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\outro\outro_bg.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\outro\try_more_boxes.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\outro\try_more_boxes_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\btn_already_purchased.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\btn_already_purchased_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\btn_already_purchased_over.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\btn_already_purchased_over_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\btn_cancel.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\btn_cancel_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\btn_cancel_down.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\btn_cancel_down_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\btn_cancel_over.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\btn_cancel_over_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\btn_continue.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\btn_continue_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\btn_continue_down.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\btn_continue_down_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\btn_continue_over.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\btn_continue_over_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\btn_enter_key_manual.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\btn_enter_key_manual_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\btn_enter_key_manual_down.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\btn_enter_key_manual_down_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\btn_enter_key_manual_over.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\btn_enter_key_manual_over_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\btn_lost_email_rec.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\btn_lost_email_rec_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\btn_lost_email_rec_down.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\btn_lost_email_rec_down_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\btn_lost_email_rec_over.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\btn_lost_email_rec_over_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\btn_receipt.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\btn_receipt_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\btn_receipt_down.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\btn_receipt_down_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\btn_receipt_over.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\btn_receipt_over_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\btn_register.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\btn_register_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\btn_register_down.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\btn_register_down_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\btn_register_over.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\btn_register_over_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\btn_retry.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\btn_retry_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\btn_retry_down.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\btn_retry_down_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\btn_retry_over.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\btn_retry_over_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\connecting.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\connecting_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\editbox_bg.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\editbox_bg_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\error_bg.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\error_bg_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\green_check.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\green_check_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\have_reg_key.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\internet.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\internet_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\lost_your_email.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\monitor.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\monitor_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\reg_bg.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\success.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\registration\success_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\update\updatebtn_continue.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\update\updatebtn_continue2.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\update\updatebtn_continue2_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\update\updatebtn_continue3.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\update\updatebtn_continue3_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\update\updatebtn_continue_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\update\updatebtn_done.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\update\updatebtn_done2.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\update\updatebtn_done2_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\update\updatebtn_done3.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\update\updatebtn_done3_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\update\updatebtn_done_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\update\updatebtn_downloadnow.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\update\updatebtn_downloadnow2.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\update\updatebtn_downloadnow2_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\update\updatebtn_downloadnow3.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\update\updatebtn_downloadnow3_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\update\updatebtn_downloadnow_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\update\updatebtn_install.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\update\updatebtn_install2.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\update\updatebtn_install2_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\update\updatebtn_install3.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\update\updatebtn_install3_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\update\updatebtn_install_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\update\updatebtn_nothanks.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\update\updatebtn_nothanks2.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\update\updatebtn_nothanks2_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\update\updatebtn_nothanks3.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\update\updatebtn_nothanks3_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\update\updatebtn_nothanks_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\update\update_dialog.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\update\update_dlinprogress.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\update\update_dlinprogress_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\update\update_installerror.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\update\update_installerror_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\update\update_installsuccess.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\update\update_installsuccess_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\images\update\update_text.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\scripts\Bullets.luc</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\scripts\ClassLink.luc</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\scripts\Common.luc</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\scripts\Consts.luc</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\scripts\Default.luc</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\scripts\DProps.luc</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\scripts\DRMApp.luc</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\scripts\DRMButtonWidget.luc</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\scripts\Layout.luc</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\scripts\LuaApp.luc</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\scripts\LuaCommonWidgets.luc</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\scripts\LuaWidget.luc</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\scripts\main.luc</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\scripts\Screen.luc</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\scripts\TextletWidget.luc</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\scripts\UpdateAvailableDialog.luc</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\scripts\UpdateBackdrop.luc</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\scripts\UpdateDetails.luc</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\scripts\UpdateDownloadedDialog.luc</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\common\security.txt</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\drm.xml</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\drm.xml.sig</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\fg_screens\fg1\screenshot_1.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\fg_screens\fg1\screenshot_1_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\fg_screens\fg1\screenshot_2.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\fg_screens\fg1\screenshot_2_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\fg_screens\fg1\screenshot_3.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\fg_screens\fg1\screenshot_3_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\fg_screens\fg1\screenshot_4.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\fg_screens\fg1\screenshot_4_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\fg_screens\fg2\screenshot_1.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\fg_screens\fg2\screenshot_1_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\fg_screens\fg2\screenshot_2.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\fg_screens\fg2\screenshot_2_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\fg_screens\fg2\screenshot_3.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\fg_screens\fg2\screenshot_3_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\fg_screens\fg2\screenshot_4.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\fg_screens\fg2\screenshot_4_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\fg_screens\fg3\screenshot_1.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\fg_screens\fg3\screenshot_1_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\fg_screens\fg3\screenshot_2.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\fg_screens\fg3\screenshot_2_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\fg_screens\fg3\screenshot_3.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\fg_screens\fg3\screenshot_3_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\fg_screens\fg3\screenshot_4.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\fg_screens\fg3\screenshot_4_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\game_screens\screenshot1.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\game_screens\screenshot1_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\game_screens\screenshot2.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\game_screens\screenshot2_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\game_screens\screenshot3.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\game_screens\screenshot3_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\game_tiles\gametile_aalt.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\game_tiles\gametile_aalt_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\game_tiles\gametile_aalt_over.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\game_tiles\gametile_aalt_over_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\game_tiles\gametile_bj2.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\game_tiles\gametile_bj2_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\game_tiles\gametile_bj2_over.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\game_tiles\gametile_bj2_over_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\game_tiles\gametile_bookworm.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\game_tiles\gametile_bookworm_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\game_tiles\gametile_bookworm_over.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\game_tiles\gametile_bookworm_over_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\game_tiles\gametile_bwa.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\game_tiles\gametile_bwa_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\game_tiles\gametile_bwa_over.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\game_tiles\gametile_bwa_over_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\game_tiles\gametile_chuzzle.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\game_tiles\gametile_chuzzle_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\game_tiles\gametile_chuzzle_over.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\game_tiles\gametile_chuzzle_over_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\game_tiles\gametile_insani.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\game_tiles\gametile_insani_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\game_tiles\gametile_insani_over.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\game_tiles\gametile_insani_over_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\game_tiles\gametile_peggle.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\game_tiles\gametile_pegglenights.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\game_tiles\gametile_pegglenights_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\game_tiles\gametile_pegglenights_over.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\game_tiles\gametile_pegglenights_over_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\game_tiles\gametile_peggle_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\game_tiles\gametile_peggle_over.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\game_tiles\gametile_peggle_over_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\game_tiles\gametile_zuma.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\game_tiles\gametile_zuma_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\game_tiles\gametile_zuma_over.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\game_tiles\gametile_zuma_over_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\home\btn_next_screenshot.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\home\btn_next_screenshot_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\home\btn_next_screenshot_down.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\home\btn_next_screenshot_down_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\home\btn_next_screenshot_over.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\home\btn_next_screenshot_over_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\home\btn_play_now.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\home\btn_play_now_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\home\btn_play_now_down.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\home\btn_play_now_down_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\home\btn_play_now_over.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\home\btn_play_now_over_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\home\btn_prev_screenshot.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\home\btn_prev_screenshot_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\home\btn_prev_screenshot_down.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\home\btn_prev_screenshot_down_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\home\btn_prev_screenshot_over.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\home\btn_prev_screenshot_over_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\home\home_bg.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\home\screenshots_background_small.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\home\screenshots_background_small_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\home\screenshot_over.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\tip_tiles\tip1_1tile.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\tip_tiles\tip1_1tile_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\tip_tiles\tip1_2tile.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\tip_tiles\tip1_2tile_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\tip_tiles\tip2_1tile.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\tip_tiles\tip2_1tile_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\tip_tiles\tip2_2tile.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\tip_tiles\tip2_2tile_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\tip_tiles\tip3_1tile.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\tip_tiles\tip3_1tile_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\tip_tiles\tip3_2tile.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\tip_tiles\tip3_2tile_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\tip_tiles\tip4_1tile.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\tip_tiles\tip4_1tile_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\tip_tiles\tip4_2tile.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\tip_tiles\tip4_2tile_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\tip_tiles\tip5_1tile.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\tip_tiles\tip5_1tile_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\tip_tiles\tip5_2tile.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\tip_tiles\tip5_2tile_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\tip_tiles\tip6_1tile.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\tip_tiles\tip6_1tile_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\tip_tiles\tip6_2tile.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\images\tip_tiles\tip6_2tile_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\scripts\Custom.luc</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\custom\scripts\HomeScreen.luc</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\logo.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm\logo_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm.xml</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\drm.xml.sig</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\edata\credits.txt</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\edata\credits_orig.txt</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\edata\gem_points.txt</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\edata\lines.txt</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\edata\points.txt</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\edata\points2.txt</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\edata\points3.txt</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\edata\points4.txt</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\edata\polys.txt</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\eula.txt</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Action.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Action_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\al_litgems.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\ArrowUp.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\ArrowUp_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\backdrops\backdrop00.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\backdrops\backdrop01.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\backdrops\backdrop02.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\backdrops\backdrop03.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\backdrops\backdrop04.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\backdrops\backdrop05.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\backdrops\backdrop06.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\backdrops\backdrop07.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\backdrops\backdrop08.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\backdrops\backdrop09.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\backdrops\backdrop10.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\backdrops\backdrop11.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\backdrops\backdrop12.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\backdrops\backdrop13.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\backdrops\backdrop14.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\backdrops\backdrop15.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\backdrops\backdrop16.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\backdrops\backdrops.lst</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\BACKTOGAME.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\BACKTOGAME_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\BACKTOMENU.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\BACKTOMENU_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\barleft.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\barmid.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\barright.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Big-Dim.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Big-Lighten.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\bigstar.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\blackhole_chopped.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\blue-Loader.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\board.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\bomb.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\bomb_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\BottomGlow.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\BttomBar.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\BttomBar_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Center-Halo.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Center-Halo_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\CenterMoon_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\centertext.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\centertext_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Classic.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Classicmode.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Classicmode_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Classic_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Click-text.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Click-text_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\CLOSE-BUTTON.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\CLOSE-BUTTON_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Cognito.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Cognito_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\comet.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\DIALOGBOX.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\DIALOGBOX_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\DialogButton.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\DialogButtonglow.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\DialogButtonglow_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\DialogButton_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\DialogTitle.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\DialogTitle_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\dm_title_deluxe.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\DomeMask_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\DomeSliver.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\editbox.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Endless.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\EndlessCenterA.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\EndlessCenterA_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\EndlessCenterB.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\EndlessCenterB_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\EndlessCenterC.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\EndlessCenterC_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\EndlessCenterD.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\EndlessCenterD_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\EndlessCenterE.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\EndlessCenterE_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\EndlessCenterF.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\EndlessCenterF_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\EndlessCenterG.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\EndlessCenterG_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\EndlessMedalian.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\EndlessMedalian_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\EndlessOuter1.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\EndlessOuter1_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\EndlessOuter2.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\EndlessOuter2_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\EndlessOuter3.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\EndlessOuter3_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\EndlessOuter4.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\EndlessOuter4_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\EndlessOuter5.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\EndlessOuter5_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\EndlessOuter6.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\EndlessOuter6_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\EndlessOuter7.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\EndlessOuter7_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Endless_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\explosion.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Finity.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Finity_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\firering.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Flash-Loader.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Flash-Loader_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\fogbank1.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\fogbank1_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\fogbank2.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\fogbank2_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\FRAME.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\FRAME_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\GADJET3balls.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\GADJET3balls_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Galaxy-Map-button.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Galaxy-Map-button640.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Galaxy-Map-button640_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Galaxy-Map-buttonglow640_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Galaxy-Map-button_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\GalaxyWarpButton.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\GalaxyWARPBUTTON_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\gameselector_bg.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\gameselector_fg.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\gameselector_fg_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\gem0.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\gem0_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\gem1.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\gem1_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\gem2.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\gem2_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\gem3.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\gem3_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\gem4.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\gem4_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\gem5.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\gem5_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\gem6.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\gem6_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\gemshard.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\gemshard_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\gem_add.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\GMAP.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\GMAP_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\GMBHIghlite.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\GMBHIghlite_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\gmsolvedplanet1.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\gmsolvedplanet1_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Grid-frame-4.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Grid-frame-4_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Grid-frame-5.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Grid-frame-5_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Header.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Header_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\HELP-INDICATOR.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Help-indicator_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\help_indicator_arrows_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Hint-rollover.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Hint-rollover_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\HINT.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Hint_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\hint_arrow.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\hint_arrow_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\holemask.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Hyper.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\hypergem.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\hypergem_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Hyper_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\IrisDoor.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\LEft-Panel.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\LEft-Panel_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\lightning.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\lightning_center.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Loader.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\loaderbar.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Loader_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\MapButtonGlow.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\MapButtonGlow_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Med-dim.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\menu-centerglow.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Menu-Gadgets.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Menu-Gadgets_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\MENU-rollover.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\MENU-rollover_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\menu.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\menu_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Menu_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\MMSGameelect_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\MMSGamerollover_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\MoonAlpha_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\MoonSelect.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\MoonSelect_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\MoreGames.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\MoreGames_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Mysterglow.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Mysterglow_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Mystery.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Mysterysymbol.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Mysterysymbol_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Mystery_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\nebula1.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\nr_cursor1.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\nr_cursor1_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\nr_hyperspace.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\nr_hyperspace_initial.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\nr_MG_FRAME.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\nr_overhand.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\nr_overhand_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\nr_pointer2.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\nr_pointer2_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\nr_reloader.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\nr_reloader_overlay.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\nr_reloader_overlaylit.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\nr_reloader_overlaylit_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\nr_reloader_overlay_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\nr_ringdude.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\nr_typer.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\nr_waitbar.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\nr_warplines.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\OldGems.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\OldGems_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Options.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Options_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Outer5_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\PAUSE.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Pause_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\planet1.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\planet1_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\PlanetAlpha_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\PlanetSolved.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\PlanetSolved_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Play-Again.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Play-Again_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Play.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\playglow.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Play_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Pods.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\PodsLit.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Podslit_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Pods_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\portal_.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\powerglow.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\purple-Loader.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Puzzle.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\puzzleframe.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\puzzleframe_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\PuzzleWidget.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Puzzle_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\questionmark.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Quit.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Quit_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Redlight.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Redlight_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\ResetScores.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\ResetScores_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Right-PAnel.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Right-PAnel_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\rock.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\rockchunk.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\rockchunk_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\rock_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\SCORE.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\scorefont1.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\SCOREPOD.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\scorePod_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Scores.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Scores_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\ScoreTitle.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\ScoreTitle_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\selector.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\selector_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\slider-thumb.PNG</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\SLider-Track.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\SLider-Track_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Small-Bright.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Small-Dim.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\SmallGems.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\SmallGems_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\smallglow.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\sm_centertext.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\sm_centertext_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\sm_frame.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\sm_frame_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\sm_gameselector_bg.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\sm_gem0.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\sm_gem0_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\sm_gem1.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\sm_gem1_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\sm_gem2.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\sm_gem2_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\sm_gem3.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\sm_gem3_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\sm_gem4.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\sm_gem4_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\sm_gem5.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\sm_gem5_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\sm_gem6.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\sm_gem6_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\sm_gem_add.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\sm_hypergem.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\sm_hypergem_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\sm_puzzleframe.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\sm_puzzleframe_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Spark1.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Spark1_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Spark2.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Spark2_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Spark3.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Spark3_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\sparkle.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\SpecialgemHighlight_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\starfield1.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\starfield2.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\star_sparkle.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\SUNGLOW.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\SUNGLOW_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\SUNmoonAlpha_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Thumb.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\thumbgem.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Thumb_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\title_deluxe.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\title_deluxe_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\title_loaderbar.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\title_loaderbarlit.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\title_loaderbarlit_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\title_loaderbar_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\title_loaderbar_clickhere.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\title_loaderbar_clickhere_over.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\title_logo.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\title_logo2.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\title_logo2_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\title_logo_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\title_popcap.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\title_popcap_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Toggle.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Toggle_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Top-Rollover.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Top-Rollover_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\TopButtons.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\TopButtons_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\tunnelend.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\tunnelend_.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Twilight.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Twilight_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\UNDO.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\UNDO_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Vapor1.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Vapor1_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\Vapor2_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\waitbar.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\WARNING-LIGHT.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\WARNING-LIGHT_.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\WARPBUTTON.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\WarpButton_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\WarpGlow.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\WarpGlow_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\whitelovebar6.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\whitelovebar9.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\_alphaback1.png</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\_BigLightengif.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\_board.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\_border.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\_BottomGlow.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\_DomeSliver.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\_Greenlight.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\_IrisDoor.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\_Lower-Menubar.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\_PuzzleWidget.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\_questionmark.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\_Rolloverglow.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\images\_thumbgem.gif</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\liesmich.html</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\music\BeyondNetwork.mo3</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\PopUninstall.exe</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\properties\config.xml</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\properties\default.xml</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\properties\fstrings</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\properties\music.xml</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\properties\partner.xml</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\properties\partner.xml.sig</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\properties\resources.xml</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\1. pairs.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\1. pairs.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\10. power transfer.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\10. power transfer.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\11. long reach.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\11. long reach.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\12. cube row 1.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\12. cube row 1.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\13. cancellation.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\13. cancellation.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\14. five down.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\14. five down.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\15. rocket.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\15. rocket.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\16. demolition.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\16. demolition.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\17. buttress.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\17. buttress.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\18. pillar.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\18. pillar.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\19. red herring.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\19. red herring.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\2. above and below.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\2. above and below.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\20. gathering stones.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\20. gathering stones.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\21. 5x5 checkerboard minus one.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\21. 5x5 checkerboard minus one.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\22. 5x5 212 checker.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\22. 5x5 212 checker.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\23. 4x5 211 checker.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\23. 4x5 211 checker.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\24. 4x5 checkerboard.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\24. 4x5 checkerboard.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\25. 5x5 checkerboard.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\25. 5x5 checkerboard.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\26. Green right.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\26. Green right.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\27. Toward middle.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\27. Toward middle.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\28. Hi and low.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\28. Hi and low.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\29. broken symmetry.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\29. broken symmetry.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\3. white meet.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\3. white meet.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\30. towers.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\30. towers.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\31. countdown.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\31. countdown.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\32. race.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\32. race.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\33. test5.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\33. test5.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\34. race2.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\34. race2.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\35. delay.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\35. delay.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\36. easy climb.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\36. easy climb.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\37. mound.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\37. mound.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\38. hill.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\38. hill.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\39. mountain.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\39. mountain.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\4. house.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\4. house.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\40. peak.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\40. peak.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\41. B.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\41. B.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\42. J.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\42. J.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\43. W.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\43. W.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\44. L.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\44. L.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\45. D.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\45. D.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\46. cool moves.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\46. cool moves.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\47. short fuse.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\47. short fuse.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\48. long fuse.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\48. long fuse.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\49. leftovers.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\49. leftovers.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\5. test1.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\5. test1.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\50. patience.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\50. patience.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\51. rock checker house.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\51. rock checker house.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\52. rock checker tall house.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\52. rock checker tall house.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\53. 5x7 rock checker.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\53. 5x7 rock checker.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\54. 6x6 rock checker.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\54. 6x6 rock checker.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\55. rock checker triangle.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\55. rock checker triangle.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\56. gaps.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\56. gaps.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\57. valley.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\57. valley.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\58. columns.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\58. columns.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\59. columns2.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\59. columns2.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\6. power on.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\6. power on.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\60. columns3.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\60. columns3.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\61. 6x6 checker rock diag.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\61. 6x6 checker rock diag.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\62. 6x6 checker split.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\62. 6x6 checker split.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\63. 6x6 flag.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\63. 6x6 flag.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\64. 6x6 checker split2.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\64. 6x6 checker split2.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\65. 6x6 octagon target.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\65. 6x6 octagon target.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\66. ox.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\66. ox.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\67. test3.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\67. test3.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\68. get the red out.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\68. get the red out.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\69. test7.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\69. test7.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\7. chain reaction.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\7. chain reaction.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\70. four rocks.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\70. four rocks.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\71. 2x2 cell 2x3 checker.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\71. 2x2 cell 2x3 checker.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\72. 2x2 cell 3x3 checker.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\72. 2x2 cell 3x3 checker.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\73. 4x8 checkerboard.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\73. 4x8 checkerboard.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\74. 7x4 checkerboard.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\74. 7x4 checkerboard.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\75. 8x8 checkerboard.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\76. pyramid power.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\76. pyramid power.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\77. easy triangle.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\77. easy triangle.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\78. small triangle.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\78. small triangle.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\79. pairs2.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\79. pairs2.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\8. test2.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\8. test2.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\80. pairs3.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\80. pairs3.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\9. power switch.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\9. power switch.sol</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\Center-planet.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\Center-planet_.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\CenterMoon.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\dmoon.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\dplanet.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\galaxy.xml</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\Moon01.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\Moon02.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\Moon03.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\Moon04.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\Moon05.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\Moon06.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\Moon07.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\Moon08.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\Moon09.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\Moon10.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\Moon11.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\Moon12.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\Moon13.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\Moon14.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\Moon15.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\Moon16.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\Moonz1.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\Moonz10.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\Moonz11.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\Moonz12.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\Moonz13.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\Moonz14.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\Moonz15.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\Moonz16.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\Moonz2.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\Moonz3.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\Moonz4.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\Moonz5.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\Moonz6.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\Moonz7.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\Moonz8.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\Moonz9.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\p1.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\p10.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\p10d.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\p11.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\p11d.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\p12.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\p12d.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\p13.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\p13d.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\p14.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\p14d.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\p15.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\p15d.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\p16.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\p16d.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\p1d.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\p2.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\p2d.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\p3.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\p3d.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\p4.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\p4d.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\p5.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\p5d.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\p6.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\p6d.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\p7.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\p7d.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\p8.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\p8d.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\p9.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\p9d.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\PLanet-Map.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\puzzleendplanet.jpg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\tutorial0.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\tutorial1.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\tutorial2.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\tutorial3.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\tutorial4.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\tutorial5.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\tutorial6.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\tutorial7.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\puzzles\Galaxy One\tutorial8.bpz</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\A_New_High_Score.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\bad2.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\bombexplode.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\click2.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\combo22.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\combo32.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\combo42.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\combo52.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\combo62.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\combo72.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\electro_explode.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\electro_path.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\electro_start.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\excellent1.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\explode2.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\firecrackle.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\galaxymapbutton.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\Game_Over.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\gemongem2.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\Get_ready.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\Go.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\Good.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\Goodbye.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\gotset2.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\gotsetbig2.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\hypergem_creation.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\hypergem_destroyed.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\Incredible.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\landinglights.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\Level_Complete.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\mainmenu_gamestart.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\mainmenu_mouseclick.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\mainmenu_mouseoff.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\mainmenu_mouseover.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\menuclick.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\menuclick2.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\multishot.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\mystery.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\No_More_Moves.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\panelslide1.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\planetselect.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\Puzzle_Solved.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\select.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\Time_Up.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\warning1.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\Warp_Drive_Ready.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\Welcome.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\Welcome_Back.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\whirlpool1.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\sounds\World_Complete.ogg</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\unicows.dll</File>
+	<File>C:\Program Files (x86)\PopCap Games\Bejeweled 2 Deluxe\vhwb.dat</File>
+	<GameExplorerGuid>{00000000-0000-0000-0000-000000000000}</GameExplorerGuid>
+	<UninstallDeltree>C:\ProgramData\Microsoft\Windows\GameExplorer\{00000000-0000-0000-0000-000000000000}</UninstallDeltree>
+	<Registry>
+		<RegValue>
+			<Key>HKLM\SOFTWARE\PopCap\Bejeweled2</Key>
+			<Name>InstallPath</Name>
+		</RegValue>
+		<RegValue>
+			<Key>HKLM\SOFTWARE\PopCap\Bejeweled2</Key>
+			<Name>FullInstallPath</Name>
+		</RegValue>
+		<RegValue>
+			<Key>HKLM\SOFTWARE\PopCap\Bejeweled2</Key>
+			<Name>RegistryDataLocation</Name>
+		</RegValue>
+	</Registry>
+	<UninstallDelRegKey>HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Bejeweled 2 Deluxe</UninstallDelRegKey>
+	<File>%AppFolder%\%GameName%\Spiel %GameName%.lnk</File>
+	<File>%AppFolder%\%GameName%\Liesmich Ansehen.lnk</File>
+	<File>%AppFolder%\%GameName%\%GameName% Deinstallieren.lnk</File>
+	<File>%AppFolder%\%GameName%\Besuch PopCap.com.url</File>
+	<File>#HasDirectoriesExcept C:\Program Files (x86)\PopCap Games,Bejeweled 2 Deluxe, | %CommonDesktop%\Weitere tolle Spiele!.url</File>
+	<File>#HasDirectoriesExcept C:\Program Files (x86)\PopCap Games,Bejeweled 2 Deluxe, | C:\Program Files (x86)\PopCap Games\moregames.ico</File>
+	<File>%CommonDesktop%\%GameName%.lnk</File>
+	<File>C:\ProgramData\Microsoft\Windows\GameExplorer\{00000000-0000-0000-0000-000000000000}\PlayTasks\0\%GameName%.lnk</File>
+	<Defines>
+		<Define>
+			<Name>GAMEDIR</Name>
+			<Value>Bejeweled 2 Deluxe</Value>
+		</Define>
+		<Define>
+			<Name>GAMEEXE</Name>
+			<Value>Bejeweled2.exe</Value>
+		</Define>
+		<Define>
+			<Name>GAMENAME</Name>
+			<Value>Bejeweled 2 Deluxe</Value>
+		</Define>
+		<Define>
+			<Name>INSTALLGROUP</Name>
+			<Value>PopCap Games</Value>
+		</Define>
+		<Define>
+			<Name>INSTALLNAME</Name>
+			<Value>%GameName%</Value>
+		</Define>
+		<Define>
+			<Name>INSTALLPATH</Name>
+			<Value>%ProgramFiles%\%InstallGroup%</Value>
+		</Define>
+		<Define>
+			<Name>PRODNAME</Name>
+			<Value>Bejeweled2</Value>
+		</Define>
+		<Define>
+			<Name>REGGROUP</Name>
+			<Value>PopCap</Value>
+		</Define>
+		<Define>
+			<Name>USERKEYLOCATION</Name>
+			<Value>HKCU</Value>
+		</Define>
+	</Defines>
+</InstallLog>

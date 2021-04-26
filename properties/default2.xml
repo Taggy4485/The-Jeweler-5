@@ -1,0 +1,410 @@
+﻿<?xml version="1.1" encoding="UTF-8" ?>
+<Properties version="1.1" language="de" country="DE" lookandfeel="NORMAL" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="">
+<String id="LOCALE">German_Germany</String>
+
+	<!-- Framework Strings -->
+	<String id="DIALOG_BUTTON_YES">EVET</String>
+	<String id="DIALOG_BUTTON_NO">HAYIR</String>
+	<String id="DIALOG_BUTTON_OK">TAMAM</String>
+	<String id="DIALOG_BUTTON_CANCEL">IPTAL</String>
+
+	<String id="UNEXPECTED_ERROR">Ein unerwarteter Fehler ist aufgetreten!  In dem du "Bericht senden" wählst, schickt du uns hilfreiche Debug-Informationen, die uns helfen können, dass Problem zu lösen. &cr;&cr;Du kannst auch unseren Kundendienst kontaktieren auf http://www.popcap.com/support.</String>
+
+	<String id="PLEASE_HELP">Bitte hilf uns, indem du uns so viele Informationen wie nur möglich über diesen Crash mitteilst. War dies das erste Mal, dass es passierte? Hast du andere PopCap Deluxe-Spiele erfolgreich installiert und gespielt? Hast du in letzter Zeit deine Treiber oder Software aufgerüstet? Das könnte zu Konflikten mit diesem Programm führen?</String>
+
+	<String id="FAILED_CONNECT_POPCAP">Es konnte keine Verbindung zu den PopCap-Servern hergestellt werden.  Bitte überprüfe deine Internetverbindung.&cr;Wenn du eine Wählleitung benutzt, musst du eventuell von Hand eine Verbindung mit deinem Internetdienstanbieter herstellen.</String>
+
+	<String id="HARDWARE_ACCEL_SWITCHED_ON">Die 3D-Beschleunigung wurde während dieser Session aktiviert.&cr;Wenn das Spiel dadurch langsamer läuft, sollte sie deaktiviert werden.&cr;Möchtest du die 3D-Beschleunigung aktiviert lassen?</String>
+
+	<String id="HARDWARE_ACCEL_CONFIRMATION">Bestätigung der 3D-Beschleunigung</String>
+
+	<String id="HARDWARE_ACCEL_NOT_WORKING">Die 3D-Beschleunigung funktionierte während dieser Session unter Umständen nicht korrekt.&cr;Wenn du Grafikprobleme bemerkt hast, sollte sie deaktiviert werden.&cr;Möchtest du die 3D-Beschleunigung aktiviert lassen?</String>
+
+	<String id="FATAL_ERROR">SCHWERWIEGENDER FEHLER</String>
+
+	<String id="PLEASE_SET_COLOR_DEPTH">Bitte stelle die Farbtiefe des Desktops auf 16 Bit ein.</String>
+
+	<String id="FAILED_INIT_DIRECTDRAW">DirectDraw konnte nicht initialisiert werden: </String>
+
+	<String id="UNABLE_OPEN_PROPERTIES">Eigenschaftendatei konnte nicht geöffnet werden. </String>
+
+	<String id="PROPERTIES_SIG_FAILED">Signaturcheck gescheitert bei </String>
+
+	<String id="INVALID_COMMANDLINE_PARAM">Ungültiger Befehlszeilenparameter</String> 
+
+	<String id="APP_REQUIRES_DIRECTX">Diese Anwendung benötigt DirectX.  Du kannst DirectX auf http://www.microsoft.com/directx finden.</String>
+	<String id="YOU_NEED_DIRECTX">Du benötigst DirectX.</String>
+
+	<!-- Dialog Buttons -->
+	<String id="DIALOG_BUTTON_YES">EVET</String>
+	<String id="DIALOG_BUTTON_NO">HAYIR</String>
+	<String id="DIALOG_BUTTON_OK">TAMAM</String>
+	<String id="DIALOG_BUTTON_CANCEL">IPTAL</String>
+		
+	<!-- Update Dialog Stuff -->
+	<String id="UPDATE_CHECK_TITLE">Guncelleme Kontrolu</String>
+	<String id="UPDATE_CHECK_BODY">Bu urun icin herhangi bir guncelleme olup olmadigini belirlemek icin PopCap.com ile iletisime geciliyor...</String>
+	<String id="UP_TO_DATE_TITLE">Guncel</String>	
+	<String id="UP_TO_DATE_BODY">Su anda bu urun icin guncelleme mevcut degil.</String>
+	<String id="NEW_VERSION_TITLE">Yeni Surum</String>
+ 	<String id="NEW_VERSION_BODY">Bu urun icin bir guncelleme var. Indirmek icin web sitesini ziyaret etmek ister misiniz?</String>
+
+	<!-- Exception Dialog Stuff -->
+	<String id="BUG_REPORT_TITLE">Olumcul Hata</String>
+	<String id="BUG_REPORT_BODY">Programda bir seyler ters gitti.&cr;Bir hata raporu olusturuldu ve Zylom'a gonderilebilir.&cr;Bu rapor, sorunun nedenini bulmamiza yardimci olacaktir.&cr;Raporun gonderilmesi icin etkin bir Internet baglantısı gerekir.&cr;&cr;Hata raporunu gondermek ister misiniz?</String>
+	
+	<!-- Board -->
+	<String id="EXCELLENT">MUKEMMEL!</String>
+	<String id="NO_MOVES">HAMLE KALMADI!</String>
+	<String id="LEVEL_">SEVIYE %d</String>
+	<String id="GO">BASLA!</String>
+	<String id="TIME_UP">SURE BITTI!</String>
+	<String id="GAME_PAUSED">*** OYUN DURDURULDU ***</String>
+	<String id="CLICK_HERE_TO_CONTINUE">Devam etmek icin buraya tiklayin!</String>
+	<String id="PLAY_AGAIN">Tekrar oyna</String>
+	<String id="MAIN_MENU">Ana Menu</String>
+	<String id="COMPLETE">TAMAMLANDI!</String>
+	<String id="WARP_READY">ISINLAMA HAZIR</String>
+	<String id="SOLVED">COZULDU!</String>
+	<String id="POWER_GEM">GUC TASI</String>
+	<String id="CREATE_POWER_GEMS_1">Aynı renkteki dort tasi birlestirerek bir Guc Tasi olusturun. Bir hamlede kullanirsaniz bu taslar patlar, bu da daha fazla puan demektir!</String>
+	<String id="CREATE_POWER_GEMS_2">Ayni renkteki dort tasi birlestirdiniz ve bir Guc Tasi olusturdunuz. Bir hamlede kullanirsaniz bu taslar patlar, bu da daha fazla puan demektir!</String>
+	<String id="CREATE_POWER_GEMS_3">Aynı renkteki dort tasi birlestirerek bir Guc Tasi olusturun.&cr;Bir hamlede kullanırsanız bu taslar patlar, bu da daha fazla puan demektir!</String>
+	<String id="CREATE_POWER_GEMS_4">Ayni renkteki dort tasi birlestirdiniz ve bir Guc Tasi olusturdunuz.&cr;Bir hamlede kullanirsaniz bu taslar patlar, bu da daha fazla puan demektir!</String>
+	<String id="DONT_SHOW_AGAIN">Bir daha gosterme</String>
+	<String id="CONTINUE">Devam et</String>
+	<String id="HYPER_CUBE">HIPERKUP</String>
+	<String id="CREATE_HYPER_CUBE">Aynı renkteki bes tasi birlestirdiniz ve bir Hiperkup olusturdunuz. Herhangi bir tasla hareket ettirirseniz renginin tum taslari kaybolur!</String>
+	<String id="SHOW_AGAIN">Tekrar Goster</String>
+	<String id="RESET_PUZZLE">Yapbozu Sifirla</String>
+	<String id="WRONG_PIECE">Yanlis Tas</String>
+	<String id="SELECT_PIECE">Lutfen "BURAYA TIKLAYIN" okunun isaret ettigi tasi secin.</String>
+	<String id="ILLEGAL_MOVE">Gecersiz Hamle</String>
+	<String id="SELECT_ADJACENT">İki bitisik tas secmelisiniz.</String>
+	<String id="WRONG_SPOT">Yanlis Nokta</String>
+	<String id="CLICK_LOCATION">Lutfen "BURAYA TIKLAYIN" okunun isaret ettigi yere tiklayin.</String>
+	<String id="23_PLANETS_LEFT">23 GEZEGEN KALDI</String>
+	<String id="EACH_SWAP">Her hamlede bir rengin en az uc ya da daha fazla tasi temizlenmelidir.</String>
+	<String id="MODE_UNLOCKED">MODUN KILIDI ACILDI</String>
+	<String id="UNLOCKED_SECRET">Gizli bir oyun modunun kilidini actiniz!&cr;&cr;Artik bu oyun moduna ana menuden erisebilirsiniz.</String>
+	<String id="NO_HINTS">Ipucu mevcut degil</String>
+	<String id="NO_HINTS_AVAILABLE">Bu yapboz icin ipuclari mevcut degildir..</String>
+	<String id="NO_LONGER_SOLVABLE">Artik cozulemez</String>
+	<String id="UNDO_TO_SOLVABLE">Yapbozun en son cozulebildigi noktasina donmek ister misiniz?</String>
+	<String id="STILL_SOLVABLE">Hala cozulebilir!</String>
+	<String id="STILL_SOLVABLE_HINT">Bu yapboz hala bu noktada cozulebilir&cr;Hangi hamlenin yapilabilecegine dair bir ipucu ister misiniz?</String>
+	<String id="_PLANETS_LEFT">%d GEZEGEN KALDI</String>
+	<String id="LEVEL">SEVIYE %d</String>
+	<String id="INCREDIBLE">INANILMAZ</String>
+	<String id="MORE_HINTS">Daha fazla ipucu?</String>
+	<String id="ONE_OR_MORE_MOVES_UNDONE">Bu yapbozun cozulebilmesi icin en az bir veya daha fazla hamle geri alindi.&cr;&cr;Hangi hamlenin devam etmek icin en iyi yol oldugunu gormek istiyorsaniz "Ipucu" butonuna tekrar tiklayin.</String>
+	<String id="BACK_MAIN_MENU">Ana menuye geri don</String>
+	<String id="PRESS_WARP">Sonraki gezegene gitmek icin "ISINLA" butonuna tiklayin!</String>
+	<String id="PRESS_WARP_1">Sonraki gezegene gitmek icin "ISINLA" butonuna tiklayin &cr;ya da buyuk zafer icin gezegeni son yapbozuna kadar cozun!</String>
+	<String id="BEAT_PUZZLE">ya da buyuk zafer icin gezegeni son yapbozuna kadar cozun!</String>
+	<String id="SELECT_PUZZLE">Yeni bir yapboz icin soldaki yuvarlaklardan birine tiklayin.</String>
+	<String id="NO_MOVES_POSSIBLE">Bu noktada artik hamle yapilamaz.</String>
+	<String id="UNDO_1">Bu noktada artik hamle yapilamaz. &cr;"GERI AL" butonuyla birkac hamleyi geri alın,&cr;cozulebilir olan en son hamle noktasina gitmek için &cr;"IPUCU" butonuna tiklayin, YA DA</String>
+	<String id="PRESS_HINT_1">cozulebilir olan son yapboz hamlesi icin "IPUCU" butonuna &cr;tiklayin,</String>
+	<String id="OR">YA DA</String>
+	<String id="UNDO_2">Bu noktada artik hamle yapilamaz. &cr;"GERI AL" butonuyla birkac hamleyi geri alin &cr;ya da yapboza bastan baslamak icin&cr;yapbozun secili oldugu yuvarlaga tiklayin.</String>
+	<String id="RESET">soldaki yapboz yuvarlagina tiklayarak &cr;bastan baslayin.</String>
+	<String id="PRESS_HINT_2">Bu noktada artik hamle yapilamaz. &cr; "GERI AL" butonuyla birkac hamleyi geri alin &cr;ya da yapboza bastan baslamak icin &cr;yapbozun secili oldugu yuvarlaga tiklayin. &cr;Ne yapacaginizi bilmiyorsaniz "IPUCU" butonuna tiklayin!</String>
+	<String id="COGNITO">FARKINDALIK modu tamamlandi. &cr;%d yapbozun %d 'i ipucu alinmadan cozuldu.</String>
+	<String id="PUZZLES_SOLVED_1">%d yapbozun %d 'i ipucu alinmadan cozuldu.</String>
+	<String id="GALAXY_COMPLETED">GALAKSI TAMAMLANDI</String>
+	<String id="WARNING_!">Dikkat edin!</String>
+	<String id="NOT_SCORE">Ipuclarini goruntulerseniz bu yapbozdan puan alamazsiniz.&cr;&cr;Yine de goruntulemek istiyor musunuz?</String>
+	<String id="TIMER_BAR">Sureye dikkat edin!</String>
+	<String id="WATCH_OUT_FOR_TIMER_BAR">Asagidaki zaman gostergesine dikkat edin. Tamamladiginiz her seviye icin daha hizli biter. Tamamen bos olursa kaybedersiniz!</String>
+	<String id="FINAL_PLANET">SON GEZEGEN!</String>
+	
+	<!-- CreateUserDialog -->
+	<String id="PLEASE_ENTER_NAME">Lutfen isminizi girin.</String>
+	<String id="RENAME_USER">YENIDEN ADLANDIR</String>
+	<String id="NEW_USER">YENI KULLANICI</String>
+	
+	<!-- GalaxyMap -->
+	<String id="PLANET_LOCKED">Gezegen Kilitli</String>
+	<String id="PLANET_UNAVAILABLE">Bu gezegene ulasabilmek icin bes yapbozun en az dordunu cozmelisiniz.</String>
+	
+	<!-- HelpScreen -->
+	<String id="HOW_TO_PLAY">Nasil oynanir</String>
+	<String id="BACK_TO_GAME">Oyuna geri don</String>
+	<String id="BACK_TO_MENU">Menuye geri don</String>
+	<String id="SWAP_ADJACENT">UCLU SET OLUSTURMAK ICIN TASLARI HAREKET ETTIRIN.</String>
+	<String id="CLEAR_MULTIPLE">COKLU GRUPLAR DAHA FAZLA PUAN VERIR.</String>
+	<String id="4_GEMS">DORTLU SETLER GUC TASI KAZANDIRIR.</String>
+	<String id="5_GEMS">BESLI SETLER HIPERKUP KAZANDIRIR.</String>
+	
+	<!-- MainMenu -->
+	<String id="CLICK">Degistirmek icin tiklayin.</String>
+	<String id="WELCOME">Hosgeldiniz!</String>
+	<String id="WELCOME_BACK">Tekrar Hosgeldiniz!</String>
+	<String id="WELCOME_DM">DIAMOND MINE 2'ye hosgeldiniz!</String>
+	<String id="NEVER_PLAYED_DM">DIAMOND MINE 2'yi ilk kez oynuyorsaniz once ozgun modu denemek en iyisi olacaktir.</String>
+	<String id="WELCOME_BEJ2">Hosgeldiniz!</String>
+	<String id="NEVER_PLAYED_BEJ2">BEJEWELED 2'yi ilk kez oynuyorsaniz once ozgun modu denemek en iyisi olacaktir.</String>
+	
+	<!-- MoreGames -->
+	<String id="MORE_GAMES">Daha fazla oyun</String>
+	<String id="RETURN">Ana menuye geri don</String>
+	<String id="ENJOYED_BEJ2">BEJEWELED 2 HOSUNUZA GITTIYSE DIGER OYUNLARDAN BAZILARINI DA DENEYEBILIRSINIZ</String>
+	
+	<!-- HighScoreDialog -->
+	<String id="HSDLG_HIGH_SCORES">PUANLAR</String>
+	<String id="HSDLG_DONE">TAMAM</String>
+	<String id="HSDLG_NORMAL">OZGUN</String>
+	<String id="HSDLG_TIMED">ZAMANA KARSI</String>
+	<String id="HSDLG_TODAYS_HIGH_SCORE">BUGUNUN YUKSEK PUANI</String>
+	<String id="HSDLG_EMPTY">- Bos -</String>
+	<String id="HSDLG_ALL_TIME_HIGH_SCORES">TUM ZAMANIN EN YUKSEK PUANI</String>
+	
+	<!-- HighScoreWidget -->
+	<String id="HSWIDGET_CLICK_HERE_TO_PLAY_AGAIN">TEKRAR OYNAMAK ICIN BURAYA TIKLAYIN.</String>
+	<String id="HSWIDGET_TIP0">IPUCU - Taslara iki kez tiklamak yerine fare dugmesini basili tutarak onlari hareket ettirin.</String>
+	<String id="HSWIDGET_TIP1">IPUCU - Daha yuksek puanlara sahip olmak icin seviye tamamlayin.</String>
+	<String id="HSWIDGET_TIP2">IPUCU - Tas kombolari daha fazla puan getirir.</String>
+	<String id="HSWIDGET_TIP3">IPUCU - Dort veya bes tasli eslestirmeler daha fazla puan demektir.</String>
+	<String id="HSWIDGET_TIP4">IPUCU - Coklu eslestirmeler daha fazla puan kazandirir.</String>
+	<String id="HSWIDGET_TIP5">IPUCU - Aksiyon modunda zamanla daha etkili mucadele etmek icin zaman bolmesini kombolarla doldurun.</String>
+	<String id="HSWIDGET_TIP6">IPUCU - Taslari hareket ettirmek icin sol fare dugmesini basılı tutabilirsiniz.</String>
+	<String id="HSWIDGET_TIP7">IPUCU - Oyunu zamana karsi duraklatmak için bosluk tusuna basin.</String>
+	<String id="HSWIDGET_TIP_DEFAULT">IPUCU - Internet sitemiz olan www.popcap.com'u ziyaret edin, orada cok daha fazla oyun bulabilirsiniz!</String>
+	<String id="HSWIDGET_HIGH_SCORE_OF_THE_DAY_PLACEMENT_PREFIX">Du hast die höchste Wertung des &cr;Tages erzielt! In der "ewigen" Liste bedeutet das Platz </String>
+	<String id="HSWIDGET_HIGH_SCORE_OF_THE_DAY_PLACEMENT_SUFFIX">!&cr;&cr;Möchtest du dich registrieren, &cr;damit du deine Wertung speichern kannst?</String>
+	<String id="HSWIDGET_HIGH_SCORE_OF_THE_DAY_REGISTRATION_DIALOG">Du hast die höchste Wertung des &cr;Tages erzielt!&cr;&cr;Möchtest du dich registrieren, &cr;damit du deine Wertung speichern kannst?</String>
+	<String id="HSWIDGET_HIGH_SCORE_OF_ALL_TIME_REGISTRATION_DIALOG_PREFIX">Damit hast du Platz </String>
+	<String id="HSWIDGET_HIGH_SCORE_OF_ALL_TIME_REGISTRATION_DIALOG_SUFFIX">in der "ewigen" Highscore-Liste!&cr;&cr;Möchtest du dich registrieren, &cr;damit du deine Wertung speichern kannst?</String>
+	<String id="HSWIDGET_HIGH_SCORE_OF_ALL_TIME_PLACEMENT_PREFIX">Du hast die höchste Wertung des &cr;Tages erzielt! In der "ewigen" Highscore-Liste hast du damit Platz </String>
+	<String id="HSWIDGET_HIGH_SCORE_OF_ALL_TIME_PLACEMENT_SUFFIX">!</String>
+	<String id="HSWIDGET_BEST_TODAY">Du hast die höchste Wertung des &cr;Tages erzielt!</String>
+	<String id="HSWIDGET_SCORE_PLACEMENT_PREFIX">In der "ewigen" Highscore-Liste hast du damit Platz </String>
+	<String id="HSWIDGET_SCORE_PLACEMENT_SUFFIX">!</String>
+	<String id="HSWIDGET_GAME_OVER">ENDE</String>
+	<String id="HSWIDGET_GAME_DURATION">SPIELDAUER</String>
+	<String id="HSWIDGET_GEMS_CLEARED">ABGERÄUMTE STEINE</String>
+	<String id="HSWIDGET_LONGEST_CASCADE">LÄNGSTE KASKADE</String>
+	<String id="HSWIDGET_BEST_SINGLE_MOVE">BESTER EINZELZUG</String>
+	<String id="HSWIDGET_HIGH_SCORES">HIGHSCORES</String>
+	<String id="HSWIDGET_NORMAL">NORMAL</String>
+	<String id="HSWIDGET_TIMED">GEGEN DIE ZEIT</String>
+	<String id="HSWIDGET_TODAYS_HIGH_SCORE">HEUTIGER HIGHSCORE</String>
+	<String id="HSWIDGET_EMPTY">- Leer -</String>
+	<String id="HSWIDGET_ALL_TIME_HIGH_SCORES">"EWIGE" HIGHSCORES</String>
+	<String id="HSWIDGET_NEW">Yeni</String>
+	<String id="HSWIDGET_JUNIOR">Cirak</String>
+	<String id="HSWIDGET_APPRENTICE">Ogrenci</String>
+	<String id="HSWIDGET_JOURNEYMAN">Buyuk Ogrenci</String>
+	<String id="HSWIDGET_SENIOR">Egitimli</String>
+	<String id="HSWIDGET_EXPERT">Uzman</String>
+	<String id="HSWIDGET_PRO">Deneyimli</String>
+	<String id="HSWIDGET_MASTER">Usta</String>
+	<String id="HSWIDGET_SUPERIOR">Buyuk Usta</String>
+	<String id="HSWIDGET_LEGENDARY">Efsanevi</String>
+	<String id="HSWIDGET_GEMWASHER">Tas Toplayici</String>
+	<String id="HSWIDGET_APPRAISER">Deger Bicen</String>
+	<String id="HSWIDGET_DIGGER">Kazici</String>
+	<String id="HSWIDGET_SEARCHER">Kasif</String>
+	<String id="HSWIDGET_COLLECTOR">Toplayici</String>
+	<String id="HSWIDGET_GEOLOGIST">Jeolog</String>
+	<String id="HSWIDGET_GEMOLOGIST">Tas Gozlemcisi</String>
+	<String id="HSWIDGET_JEWELER">Kuyumcu</String>
+	<String id="HSWIDGET_POLISHER">Cilaci</String>
+	<String id="HSWIDGET_BEZELIER">Parlatici</String>
+	<String id="HSWIDGET_ETCHER">Oymaci</String>
+	<String id="HSWIDGET_ENGRAVER">Isleyici</String>
+	<String id="HSWIDGET_GEMCARVER">Tas sekilcisi</String>
+	<String id="HSWIDGET_LAPIDARY">Tas gosteriscisi</String>
+	<String id="HSWIDGET_GLYPTOGRAPHER">Tas sanatcisi</String>
+	<String id="HSWIDGET_JEWELCRAFTER">Tas zanaatcisi</String>
+	<String id="HSWIDGET_FAILED">Puan dosyasi olusturulamadi!&cr;Lutfen support@popcap.com adresine bildirin.</String>
+	<String id="HSWIDGET_SCORE">Degerlendirme: %s</String>
+	<String id="HSWIDGET_LEVELS_COMPLETED">Tamamlanan Seviyeler: %d</String>
+	<String id="HSWIDGET_TIME_PLAYED">Oynama Suresi: %d Sa. %d Dak.</String>
+	<String id="HSWIDGET_GEMS_COLLECTED">Temizlenen Taslar: %s</String>
+	<String id="HSWIDGET_BIGGEST_CASCADE">En iyi tas kombosu: x %d</String>
+	<String id="HSWIDGET_BIGGEST_COMBO">En iyi kombo: %s</String>
+	<String id="HSWIDGET_POWER_GEMS_CREATED">Olusturulan Guc Taslari: %s</String>
+	<String id="HSWIDGET_HYPER_GEMS_CREATED">Olusturulan Hiperkupler: %s</String>
+	<String id="HSWIDGET_BEST_SCORE">En iyi puan: %s</String>
+	<String id="HSWIDGET_TOTAL_TIME">Toplam Oynama Suresi: %d Sa. %d Dak.</String>
+	<String id="HSWIDGET_PUZZLES_SOLVED_2">Cozulen Yapbozlar: %d</String>
+	
+	<!-- OptionsDialog -->
+	<String id="OPTIONSDLG_OPTIONS">Ayarlar</String>
+	<String id="OPTIONSDLG_DONE">Tamam</String>
+	<String id="OPTIONSDLG_HELP">Yardim</String>
+	<String id="OPTIONSDLG_REGISTER">Kayit yaptir</String>
+	<String id="OPTIONSDLG_HIGH_SCORES">Puanlar</String>
+	<String id="OPTIONSDLG_CLICK_HERE_TO_TRY_ALCHEMY">ALCHEMY'i denemek icin buraya tiklayin.</String>
+	<String id="OPTIONSDLG_VISIT_POPCAP_FOR_MORE_GAMES">Daha fazla oyun bulmak icin PopCap.com'u ziyaret edin.</String>
+	<String id="OPTIONSDLG_CHECK_FOR_UPDATES">Guncellemeleri kontrol et</String>
+	<String id="OPTIONSDLG_MUSIC">Muzik</String>
+	<String id="OPTIONSDLG_SOUND_FX">Ses efektleri</String>
+	<String id="OPTIONSDLG_FULLSCREEN">Tam Ekran</String>
+	<String id="OPTIONSDLG_CUSTOM_CURSORS">Ozel Imlec</String>
+	<String id="VISIT_POPCAP">Daha fazla oyun bulmak icin PopCap.com'u ziyaret edin.</String>
+	<String id="MUSIC_VOLUME">Muzik</String>
+	<String id="SOUND_EFFECTS">Ses efektleri</String>
+	<String id="FULL">Tam</String>
+	<String id="SCREEN">Ekran</String>
+	<String id="HARDWARE">Donanim</String>
+	<String id="ACCELERATE">ivmesi</String>
+	<String id="CUSTOM">Ozel</String>
+	<String id="CURSORS">Imlec</String>
+	<String id="HIGH">Yuksek</String>
+	<String id="RESOLUTION">Cozunurluk</String>
+	<String id="AUTOMATIC">Otomatik</String>
+	<String id="UPDATE">Guncelleme</String>
+	<String id="RANDOM">Rastgele</String>
+	<String id="BACKDROPS">Arka plan</String>
+	<String id="NO_WINDOWED_MODE">Pencere modu yok</String>
+	<String id="DESKTOP_RESOLUTION">Windows ekran cozunurlugunuz, pencereli moda gecebilmek icin yeterince yuksek degil.</String>
+	<String id="FULL_SCREEN_?">Tam Ekran</String>
+	<String id="FULL_SCREEN_ENABLED">Yuksek cozunurluk icin tam ekran modu etkinlestirilmelidir.&cr;&cr;Etkinlestirilsin mi?</String>
+	<String id="WINDOWED_MODE_NOT_AVAIL">Pencereli modu kullanabilmek icin bilgisayariniz 16-bit veya 32-bit renk düzeyi modunda calismalidir.</String>
+	<String id="CHANGE_RESOLUTION_?">Cozunurlugu degistir</String>
+	<String id="DISABLE_HIGH_RESOLUTION_WINDOWED">Yuksek cozunurluk, pencereli mod icin devre disi birakilmalidir.&cr;&cr;Devre disi birakilsin mi?</String>
+	<String id="ENABLE_HIGH_RESOLUTION_FULL_SCREEN">Tam ekran modunda yuksek cozunurluk modu onerilir.&cr;&cr;Etkinlestirilsin mi?</String>
+	<String id="NOT_SUPPORTED">Desteklenmiyor</String>
+	<String id="HARDWARE_ACCEL_DISABLED">Donanım hizlandirma bu bilgisayarda etkinlestirilemez.&cr;&cr;Grafik kartiniz bu oyun icin asgari gereksinimleri karsilamiyor.</String>
+	<String id="WARNING">Dikkat!</String>
+	<String id="ENABLE_HARDWARE_ACCEL">Grafik kartiniz bu ozelligi tam olarak desteklemiyor olabilir.&cr;&cr;Oyun cok yavas calisiyorsa donanim hizlandirmayi devre disi birakin.&cr;&cr;Etkinlestirmek istediginizden emin misiniz?</String>
+	<String id="DISABLE_ACCELERATION">Hizlandirma devre disi birakilsin mi?</String>
+	<String id="DISABLE_ACCELERATION_NOT_RECOMMENDED">Donanim hizlandirmayi devre disi birakmaniz önerilmez, performansin düsmesine neden olabilir.&cr;&cr;Yine de devre disi birakilsin mi?</String>
+	<String id="AUTOMATIC_UPDATE_?">Otomatik guncelleme</String>
+	<String id="ENABLING_AUTO_UPDATE_DM2">Otomatik güncelleme etkinlestirilirse DIAMOND MINE 2, her baslatildiginda güncellemeleri kontrol eder. Modem kullanicilari icin bu önerilmez.&cr;&cr;Otomatik güncelleme etkinlestirilsin mi?</String>
+	<String id="ENABLING_AUTO_UPDATE_BEJ2">Otomatik güncelleme etkinlestirilirse BEJEWELED 2, her baslatildiginda güncellemeleri kontrol eder. Modem kullanicilari icin bu önerilmez.&cr;&cr;Otomatik güncelleme etkinlestirilsin mi?</String>
+	<String id="HIGH_RESOLUTION_?">Yuksek Cozunurluk</String>
+	<String id="ENABLE_HIGH_RESOLUTION_HARDWARE_RES">Donanim hizlandirmasi etkinlestirilmeden yuksek cozunurluk kullanilirsa oyun performansi dusebilir.&cr;&cr;Yine de etkinlestirilsin mi?</String>
+	<String id="LOW_RESOLUTION">Cozunurluk Dusurulsun Mu?</String>
+	<String id="DISABLE_HIGH_RESOLUTION_GRAPHICS_QUALITY">Yuksek cozunurluk devre disi birakilirsa goruntu kalitesi duser.&cr;&cr;Devre disi birakilsin mi?</String>
+	<String id="RANDOM_BACKDROPS_?">Rastgele Arka Plan</String>
+	<String id="ENABLING_RANDOM_BACKDROPS">Bu secenek etkinlestirilirse gezegenlerin arka planlari her oynayisinizda degisir.&cr;&cr;Etkinlestirilsin mi?</String>
+	
+	<!-- PuzzlePackSelector -->
+	<String id="SELECT_PUZZLE_PACK">Yapboz paketi seçin</String>
+	<String id="PLAY">OYNA</String>
+	
+	<!-- RecordScoreDialog -->
+	<String id="RECORDSCOREDLG_HIGH_SCORE">Kirilan Rekor</String>
+	<String id="RECORDSCOREDLG_ENTER_YOUR_NAME">Isminizi girin.</String>
+		
+	<!-- RegisterDialog -->
+	<String id="REGISTER_DIAMOND_MINE">DIAMOND MINE REGISTRIEREN</String>
+	<String id="REGISTER_BEJEWELED">BEJEWELED REGISTRIEREN</String>
+	<String id="CLICK_HERE_TO_REGISTER_ONLINE">Online registrieren? Hier klicken.</String>
+	<String id="WEB_BROWSER_WILL_OPEN_NOTICE1">Hinweis - Dies öffnet ein Browserfenster.</String>
+	<String id="WEB_BROWSER_WILL_OPEN_NOTICE2">Gib deine Registrierungsinformationen ein,</String>
+	<String id="WEB_BROWSER_WILL_OPEN_NOTICE3">nachdem die Registrierung beendet ist.</String>
+	<String id="REGISTERED_NAME">Registrierter Name</String>
+	<String id="LICENSE_CODE">Lizenz-Code</String>
+	<String id="WHEN_YOU_HAVE_REGISTERED">Gib deine Registrierungsinformationen ein,</String>
+	<String id="INFORMATION_BELOW">wenn du dich registriert hast.</String>
+
+	<!-- PuzzleRatingDialog -->
+	<String id="RATE_PUZZLE">Yapbozları degerlendirin</String>
+	<String id="HOW_DIFFICULT_PUZZLE">Yapbozlarin zorlugu nasildi?</String>
+	<String id="WAY_TOO_EASY">Asiri fazla kolay</String>
+	<String id="TOO_EASY">Cok Kolay</String>
+	<String id="JUST_RIGHT">Olmasi gerektigi gibi</String>
+	<String id="TOO_HARD">Cok Zor</String>
+	<String id="WAY_TOO_HARD">Asiri fazla zor</String>
+	
+	<!-- TitleScreen -->
+	<String id="YOU_MUST_REG1">Du musst dich jetzt online registrieren, damit du DIAMOND MINE weiterspielen kannst!</String>
+	<String id="YOU_MUST_REG2">Du musst dich jetzt online registrieren, damit du BEJEWELED weiterspielen kannst!</String>
+	<String id="UNREGISTERED1">UNREGISTRIERTE VERSION - DU HAST %d MAL GESPIELT.</String>
+	<String id="UNREGISTERED2">UNREGISTRIERTE VERSION</String>
+	<String id="THANKS_FOR_REGISTERING">DANKE FÜR DIE REGISTRIERUNG!</String>
+	<String id="VERSION">Version</String>
+	<String id="CLICK_HERE_TO_PLAY">ZUM SPIELEN HIER KLICKEN!</String>
+	<String id="REGISTER_NOW_TO_REMOVE_THIS_DELAY">LASS DICH JETZT REGISTRIEREN, UM DIESE VERZÖGERUNG ZU BESEITIGEN!</String>
+	<String id="CLICK_HERE_TO_QUIT">ZUM BEENDEN HIER KLICKEN</String>
+	<String id="CLICK_HERE_TO_REGISTER_NOW">ZUM REGISTRIEREN JETZT HIER KLICKEN!</String>
+	<String id="1_MINUTE_LEFT">Dir verbleibt in dieser Testversion noch eine Minute!&cr;</String>
+	<String id="MINUTES_LEFT">Dir verbleiben in dieser Testversion noch %d Minuten!&cr;</String>
+	<String id="1_FREE_PLAY">Dir verbleibt ein kostenloses Spiel!&cr;</String>
+	<String id="FREE_PLAYS">Dir verbleiben %d kostenlose Spiele!&cr;</String>
+	<String id="DO_YOU_WANT_TO_REGISTER"> Möchtest du dich jetzt registrieren, um die Vollversion freizuschalten?</String>
+	<String id="REGISTER_NOW_?">Jetzt registrieren</String>
+	
+	<!-- UserDialog -->
+	<String id="WHO_ARE_YOU">Kimsiniz?</String>
+	<String id="RENAME">YENIDEN ADLANDIR</String>
+	<String id="DELETE">SIL</String>
+	<String id="CREATE_NEW_USER">(Yeni bir kullanici olusturun)</String>
+	
+	<!-- WinDMApp -->
+	<String id="URL">http://www.popcap.com</String>
+	<String id="URL_OPEN_ERROR1">Bitte öffne die folgende URL in deinem Browser:&cr;</String>
+	<String id="URL_OPEN_ERROR2">&cr;&cr;Damit du es einfacher hast, wurde diese URL bereits in die Zwischenablage kopiert.</String>
+	<String id="OPEN_BROWSER">BROWSER ÖFFNEN</String>
+	<String id="OPENING_BROWSER">Browser wird geöffnet...</String>
+	<String id="REGISTRATION_INVALID_DIALOG1">Registrierung ungültig</String>
+	<String id="REGISTRATION_INVALID_DIALOG2">Die eingegebene Registrierungsnummer ist für diesen Namen nicht gültig.&cr;&cr;Achte darauf, dass Name und Registrierungsnummer richtig eingegeben sind.</String>
+	<String id="REGISTRATION_INVALID_DIALOG3">OK</String>
+	<String id="HIGH_SCORE">Highscore</String>
+	<String id="CONFIRM_LOAD_DIALOG1">Eski oyuna devam edilsin mi?</String>
+	<String id="CONFIRM_LOAD_DIALOG2">Son oyununuza devam etmek istiyor musunuz? Ciktiginizda konumunuz kaydedilmisti. Devam etmezseniz oyununuz kaybolacak.</String>
+	<String id="UPDATES">Aktualisierungen</String>
+	<String id="DO_YOU_WANT_TO_CHECK_FOR_UPDATES_TO_DIAMOND_MINE">Möchtest du nach Aktualisierungen und Erweiterungen für DIAMOND MINE 2 suchen lassen? </String>
+	<String id="DO_YOU_WANT_TO_CHECK_FOR_UPDATES_TO_BEJEWELED">Möchtest du nach Aktualisierungen und Erweiterungen für BEJEWELED 2 suchen lassen? </String>
+	<String id="UPDATES_DESC">Neue Versionen bieten unter Umständen neue Features und Fehlerkorrekturen. Dafür ist eine aktive Internet-Verbindung notwendig.</String>
+	<String id="NEWGAMEDIALOG1">Neues Spiel</String>
+	<String id="NEWGAMEDIALOG2">Möchtest du das aktuelle Spiel &cr;wirklich beenden?</String>
+	<String id="CONFIRMNORMALMODE1">Normal-Modus</String>
+	<String id="CONFIRMNORMALMODE2">Du musst das aktuelle Spiel beenden, &cr;um in den Normal-Modus umzuschalten. Okay?</String>
+	<String id="CONFIRMTIMEDMODE1">Zeit-Modus</String>
+	<String id="CONFIRMTIMEDMODE2">Du musst das aktuelle Spiel beenden, &cr;um in den Zeit-Modus umzuschalten. Okay?</String>
+	<String id="CONFIRMQUIT1">Oyundan cikmak istediginizden &cr;emin misiniz?</String>
+	<String id="CONFIRMQUIT2">&cr;&cr;Oyununuz kaydedilecek, &cr;boylece bir dahaki gelisinizde &cr;kaldiginiz yerden devam edebilirsiniz.</String>
+	<String id="QUIT">Cikis</String>
+	<String id="INSTRUCTIONDIALOG">Vertausch benachbarte Steine miteinander, um Reihen aus drei oder mehr Steinen zu bilden!</String>
+	<String id="DONE">TAMAM</String>
+	<String id="COLOR_DEPTH_EXPLANATION1">Kein Fenstermodus</String>
+	<String id="COLOR_DEPTH_EXPLANATION2">Der Fenstermodus unter Windows steht nur im 16-Bit- oder 32-Bit-Farbmodus zur Verfügung, aber keiner diese Modi ist eingestellt.</String>
+	<String id="YOU_HAVE_PLAYED_DIAMOND_MINE_D_TIMES">Du hast DIAMOND MINE %d Mal gespielt!&cr;&cr;</String>
+	<String id="YOU_HAVE_PLAYED_BEJEWELLED_D_TIMES">Du hast BEJEWELED %d Mal gespielt!&cr;&cr;</String>
+	<String id="YOU_ARE_A_DIAMOND_MINE_AHOLIC">Du bist ein totaler Diamondoliker!&cr;&cr;</String>
+	<String id="YOU_ARE_A_BEJEWELAHOLIC">Du bist total BEJEWELED!</String>
+	<String id="LOOKS_LIKE_YOU_ARE_ADDICTED">Offenbar bist du auf den Geschmack gekommen!&cr;&cr;</String>
+	<String id="ARE_YOU_GETTING_HOOKED">Kommst du langsam auf den Geschmack?&cr;&cr;</String>
+	<String id="LOADING_NAG">Lass dich online registrieren, damit die Ladeverzögerung und dieser Bildschirm verschwinden. Mit der Registrierung wird außerdem das Highscore-Feature freigeschaltet, damit du deine besten Ergebnisse speichern kannst!&cr;&cr;Jetzt registrieren?</String>
+	<String id="REGISTER_NOW">Jetzt registrieren</String>
+	<String id="OPENING_WEB_BROWSER">Browser wird geöffnet...</String>
+	<String id="TRIAL_EXPIRED">Testzeit abgelaufen</String>
+	<String id="TRIAL_EXPIRED_REGISTER_NOW">Deine Testzeit ist abgelaufen. Du musst dich registrieren, damit du weiterspielen kannst.</String>
+	<String id="ALREADY_REGISTERED">Bereits registriert</String>
+	<String id="ALREADY_REGISTERED_DM2">Du hast DIAMOND MINE 2 bereits registriert!</String>
+	<String id="ALREADY_REGISTERED_BEJ2">Du hast BEJEWELED 2 bereits registriert!</String>
+	<String id="LOAD_GAME">Oyun Yuklensin Mi?</String>
+	<String id="CONTINUE_GAME">Son oyununuza devam etmek istiyor musunuz?&cr;"HAYIR" a tiklarsaniz yeni bir oyun baslar ama eski oyununuz kaybolur.</String>
+	<String id="RESET_SCORES">Puanlar sifirlansin mi?</String>
+	<String id="RESET_HIGH_SCORE_TABLE">Yuksek puanlar tablosunu sifirlamak istediginizden emin misiniz?&cr;&cr;Bu islem, kaydedilen tum yuksek puanları silecektir.</String>
+	<String id="QUIT_?">Cikis</String>
+	<String id="PROFILE_ERROR">PROFIL HATASI</String>
+	<String id="ERROR_LOADING_PROFILE">Bu profil yuklenirken bir hata olustu. Silinmesi ve yeniden olusturulmasi gerekebilir.</String>
+	<String id="ENTER_NAME">Isim girin.</String>
+	<String id="ENTER_NAME_CREATE_NEW_PROFILE">Puanlarinizi kaydedebilmek icin yeni bir profil olusturun.</String>
+	<String id="NAME_CONFLICT">Isim Cakismasi</String>
+	<String id="ENTER_UNIQUE_NAME">Girdiginiz isim zaten kullaniliyor. Lutfen yeni bir oyuncu ismi girin.</String>
+	<String id="ARE_YOU_SURE">Emin Misiniz?</String>
+	<String id="PERMANENTLY_REMOVE">Bu islem, '%s' kullanicisini oyuncu listesinden tamamen kaldiracak!</String>
+	<String id="GALAXY">Birinci Galaksi</String>
+	<String id="DEFAULT_GALAXY">Galaxy One</String>
+	<String id="DM2">Diamond Mine 2</String>
+	<String id="VersionCheckURL">http://www.popcap.com/win32updatecheck.php</String>
+
+	<Integer id="CHECKBOX_TEXT_OFFSETY">0</Integer>
+	<Integer id="CREDITS_LENGTH">10200</Integer>
+
+	<Boolean id="ENABLE_LOWRES_MODE">True</Boolean>
+	<Boolean id="SUPPORT_WRAPPED_PUZZLE_TEXT">True</Boolean>
+	<Boolean id="USE_SMALLER_FONT">True</Boolean>
+
+	<Integer id="HUGEFONT_HEIGHT_OFFSET">-16</Integer>
+	<Integer id="HUGEFONT_WIDTH_OFFSET">16</Integer>
+	<Integer id="PUZZLE_TUTORIAL_OFFSETY">128</Integer>
+</Properties>

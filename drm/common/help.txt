@@ -1,0 +1,6 @@
+^:ACF1^^CC3300^HILFE^000000^^:ALF0^
+
+Hilfe zum Spiel findest du in der ^:F1LStr_ReadmeURL^Liesmich-Datei^:^^:F0^
+
+Bei weiteren Fragen, auch zum Kauf, schlag bitte hier nach: 
+^:F1LStr_CustomerSupportURL^Kontakt mit dem Kundendienst aufnehmen^:^^:F0^

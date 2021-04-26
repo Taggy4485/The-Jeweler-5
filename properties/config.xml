@@ -1,0 +1,95 @@
+<Properties>
+
+	<!-- Percent chance (0.0 - 1.0) that a bomb will fall -->
+	<Double  id=BombChance>		0.02	</Double>	
+	
+	<!-- Percent chance (0.0 - 1.0) that a power gem will fall -->
+	<Double  id=PowerGemChance>	0.05	</Double>	
+	
+	<!-- Percent chance (0.0 - 1.0) that a rock will fall -->
+	<Double  id=RockChance>		0.01	</Double>	
+	
+	<!-- Initial countdown value of a time bomb -->
+	<Integer id=BombCountdown>	5		</Integer>
+	
+	<!-- Mininum number of gems needed in a match to create a power gem -->
+	<Integer id=MinPowerCombo>	4		</Integer>
+	
+	<!-- Mininum number of gems needed in a match to create a wildcard destroyer -->
+	<Integer id=MinWildCombo>	5		</Integer>
+	
+	<!-- Number of points for each explosion in a chain reaction -->
+	<Integer id=ExplosionChainBonus> 40 </Integer>
+	
+	<!-- Additional number of points for each extra explosion in a chain reaction -->
+	<Integer id=ExplosionChainBonusAdd> 10 </Integer>
+	
+	<!-- Number of points for each normal gem in a hyper gem electrocution -->
+	<Integer id="ElectNormalBonus"> 20	</Integer>
+	
+	<!-- Number of points for each power gem in a hyper gem electrocution -->
+	<Integer id="ElectPowerBonus"> 60	</Integer>
+	
+	<!-- Number of points for each power gem in a set -->
+	<Integer id="PowerBonus">	25		</Integer>
+	
+	<!-- 
+		The following difficulty levels are represented by a BASE and
+		a MULT.  BASE is the value for level 1.  MULT specified how much
+		that value increases per level.
+		
+		Also, note that that most of these values such as NormBonus take
+		effect before the point multiplier is taken into account, which means
+		that the point multiplier can change without affecting the difficulty 
+	-->
+	
+	<!-- How many points it takes to get to the next level in normal mode -->
+	<Double  id=NormBonus>		500		</Double>
+	<Double  id=NormBonusMult>	150		</Double>
+	
+	<!-- Controls for points multiplier in normal mode -->
+	<Double  id=NormPMBase>		1.0		</Double>
+	<Double  id=NormPMMult>		0.5		</Double>
+	
+	<!-- How many points it takes to get to the next level in timed mode -->
+	<Double  id=TimedBonus>		 300	</Double>		
+	<Double  id=TimedBonusMult>	 50		</Double>
+	<Double  id=TimedBonusAccel> 10.0     </Double>
+	
+	<!-- Point multiplier for timed mode -->
+	<Double  id=TimedPMBase>	20.0		</Double>
+	<Double  id=TimedPMMult>	10.0		</Double>
+	
+	<!-- How fast does bonus bar start going down in timed mode -->
+	<Double  id=TimedPV>		50.0	</Double>		
+	
+	<!-- How fast the bonus bar accelerates downward in timed mode -->
+	<Double  id=TimedPA>		0.26	</Double>
+	
+	<!-- How fast acceleration increases in timed mode -->
+	<Double  id=TimedPJ>		0.00121	</Double>
+	
+	<!-- How many seconds to advance velocity by per level -->
+	<Double	 id=TimedLevelAdvance> 135 </Double>
+	
+	<!-- How much grace time you are given per move in timed mode -->
+	<Double	 id=GraceSeconds> 0.20 </Double>
+	
+	<!-- Multiplied by move points for additional grace time -->
+	<Double	 id=GraceSecondsMult> 0.002 </Double>
+	
+	<!-- Max grace time -->
+	<Double	 id=GraceSecondsMax> 1.0 </Double>
+	
+	<!-- Double	 id=TimedPVBonusBase>	2.0	</Double -->
+	<!-- Double	 id=TimedPVBonusAdd>	2.0	</Double -->
+	
+	<!-- Point multiplier for endless mode -->
+	<Double  id=EndlessPMBase>	10.0	</Double>
+	
+	<!-- How many points it takes to get to the next level in endless mode -->
+	<Double  id=EndlessBonus>	500		</Double>
+	<Double  id=EndlessBonusMult>150	</Double>
+	
+	
+</Properties>

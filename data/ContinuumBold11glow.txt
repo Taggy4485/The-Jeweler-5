@@ -1,0 +1,27 @@
+Define CharList
+ ( '0', '1', '2', '3', '4', '5', '6', '7', '8', '9');
+
+Define WidthList
+ (   9,   9,   9,   9,   9,   9,   9,   9,   9,   9);
+
+Define RectList
+ ( (   0,  0, 18, 25), (  19,  0, 13, 25), (  33,  0, 18, 25), (  52,  0, 18, 25),
+   (  71,  0, 18, 25), (  90,  0, 18, 25), ( 109,  0, 18, 25), ( 128,  0, 18, 25),
+   ( 147,  0, 18, 25), ( 166,  0, 18, 25));
+
+Define OffsetList
+ ( (-5, 0), (-2, 0), (-4, 0), (-5, 0), (-5, 0), (-5, 0), (-5, 0), (-5, 0),
+   (-5, 0), (-5, 0));
+
+CreateLayer               Main;
+LayerSetImage             Main 'ContinuumBold11glow';
+LayerSetAscent            Main 17;
+LayerSetCharWidths        Main CharList WidthList;
+LayerSetCharWidths        Main (' ') (4);
+LayerSetImageMap          Main CharList RectList;
+LayerSetCharOffsets       Main CharList OffsetList;
+LayerSetAscentPadding     Main 5;
+LayerSetLineSpacingOffset Main -5;
+LayerSetPointSize         Main 11;
+
+SetDefaultPointSize  11;

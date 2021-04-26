@@ -1,0 +1,14 @@
+<Properties>
+
+	<Integer id=MUSICOFFSET_MAIN>		0x02</Integer>
+	<Integer id=MUSICOFFSET_HIGH_SCORES>	0x7A</Integer>
+	<Integer id=MUSICOFFSET_MAIN_MENU>	0xB8</Integer>
+	<Integer id=MUSICOFFSET_GET_READY>	0xC7</Integer>
+	<Integer id=MUSICOFFSET_ACTION>		0x7A</Integer>
+	<Integer id=MUSICOFFSET_LOADING>	0xCB</Integer>
+	<Integer id=MUSICOFFSET_LEVEL_CLEAR>	0xC9</Integer>
+	<Integer id=MUSICOFFSET_(finale_name)>	0xD9</Integer>
+	
+	<Integer id=MUSIC_FINALE_DELAY>		500</Integer>
+
+</Properties>

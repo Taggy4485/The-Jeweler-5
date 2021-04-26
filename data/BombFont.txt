@@ -1,0 +1,18 @@
+Define CharList
+ ( '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '+');
+
+Define WidthList
+ (  23,  23,  23,  23,  23,  23,  23,  23,  23,  23,  23);
+
+Define RectList
+ ( (   0,  0, 23,34), (  23,  0, 23,34), (  46,  0, 23,34), (  69,  0, 23,34),
+   (  92,  0, 23,34), ( 115,  0, 23,34), ( 138,  0, 23,34), ( 161,  0, 23,34),
+   ( 184,  0, 23,34), ( 207,  0, 23,34), ( 230,  0, 23,34));
+
+CreateLayer               Main;
+LayerSetImage             Main 'BombFont';
+LayerSetAscent            Main 32;
+LayerSetCharWidths        Main CharList WidthList;
+LayerSetCharWidths        Main (' ') (23);
+LayerSetImageMap          Main CharList RectList;
+

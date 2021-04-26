@@ -1,0 +1,312 @@
+<?xml version="1.0"?>
+<ResourceManifest>
+
+<Resources id="LoadScreen">
+
+<SetDefaults path="images" idprefix="IMAGE_" />
+<Image id="LOGO"					path="title_logo" />
+<Image id="LOGO_2"					path="title_logo2" />
+<Image id="LOGO_DELUXE"				path="title_deluxe" />
+<Image id="LOADER_BAR"				path="Loader" />
+<Image id="LOADER_BAR_LIT_BLUE"		path="blue-Loader" />
+<Image id="LOADER_BAR_LIT_PURPLE"	path="purple-Loader" />
+<Image id="LOADER_BAR_FLASH"		path="flash-Loader" />
+<Image id="LOADER_BAR_TEXT"			path="Click-text" />
+<Image id="LOGO_POPCAP"				path="title_popcap" />
+
+</Resources>
+
+<Resources id="NonResize">
+
+<SetDefaults path="images" idprefix="IMAGE_" />
+<Image id="RELOAD_BKG"				path="nr_reloader" />
+<Image id="RELOAD_OVERLAY"			path="nr_reloader_overlay" />
+<Image id="RELOAD_OVERLAY_LIT"		path="nr_reloader_overlaylit" />
+<Image id="CURSOR_POINTER"			path="nr_cursor1" />
+<Image id="CURSOR_HAND"				path="nr_pointer2" />
+<Image id="CURSOR_DRAGGING"			path="nr_overhand" />
+<Image id="CURSOR_TEXT"				path="nr_typer" />
+</Resources>
+
+<Resources id="Init">
+
+<SetDefaults path="images" idprefix="IMAGE_" />
+
+<SetDefaults path="data" idprefix="FONT_" />
+<Font id="1"						path="Halfmoon30.txt" />
+<Font id="2"						path="ContinuumMedium13.txt" sm_path="ContinuumMedium9.txt" />
+<Font id="CONTINUUM_MED_14"			path="ContinuumMedium14.txt" sm_path="ContinuumMedium9.txt" />
+<Font id="CONTINUUM_MED_14_GLOW"	path="ContinuumMedium14glow.txt" sm_path="ContinuumMedium9glow.txt" />
+<Font id="CONT_SM"					path="wh_ContinuumMedium18.txt" sm_path="ContinuumMedium12.txt" />
+<Font id="CONT_MED"					path="ContinuumBold26.txt" />
+
+</Resources>
+
+<Resources id="Sounds">
+
+<SetDefaults path="sounds" idprefix="SOUND_" />
+
+<Sound id="TRANSFER"				path="gotset2" />
+<Sound id="TRANSFER_BIG"			path="gotsetbig2" />
+<Sound id="COMBO_1"					path="combo22" />
+<Sound id="COMBO_2"					path="combo32" />
+<Sound id="COMBO_3"					path="combo42" />
+<Sound id="COMBO_4"					path="combo52" />
+<Sound id="COMBO_5"					path="combo62" />
+<Sound id="COMBO_6"					path="combo72" />
+<Sound id="BAD"						path="bad2" />
+<Sound id="GEM_HIT"					path="gemongem2" />
+<Sound id="HYPERGEM_CREATE"			path="hypergem_creation" />
+<Sound id="HYPERGEM_DESTROYED"		path="hypergem_destroyed" />
+<Sound id="EXPLODE"					path="explode2" />
+<Sound id="CLICK"					path="menuclick" />
+<Sound id="CLICK_DIALOG"			path="menuclick2" />
+<Sound id="SELECT"					path="select" />
+<Sound id="MULTISHOT"				path="multishot" />
+<Sound id="GO"						path="go" />
+<Sound id="GAME_OVER"				path="game_over" />
+<Sound id="TIME_UP"					path="Time_Up" />
+<Sound id="FIRE_CRACKLE"			path="firecrackle" />
+<Sound id="WARNING"					path="warning1" />
+<Sound id="WHIRLPOOL"				path="whirlpool1" />
+<Sound id="GOOD"					path="good" />
+<Sound id="EXCELLENT"				path="excellent1" />
+<Sound id="INCREDIBLE"				path="incredible" />
+<Sound id="BOMB_EXPLODE"			path="bombexplode" />
+<Sound id="FAIRY_DUST"				path="mystery" />
+<Sound id="ELECTRO_START"			path="electro_start" />
+<Sound id="ELECTRO_PATH"			path="electro_path" />
+<Sound id="ELECTRO_EXPLODE"			path="electro_explode" />
+<Sound id="PANEL_SLIDE"				path="panelslide1" />
+<Sound id="HIGH_SCORE"				path="A_New_High_Score" />
+
+<Sound id="MAIN_GAME_START"			path="mainmenu_gamestart" />
+<Sound id="MAIN_MOUSE_CLICK"		path="mainmenu_mouseclick" />
+<Sound id="MAIN_MOUSE_OVER"			path="mainmenu_mouseover" />
+<Sound id="MAIN_MOUSE_LEAVE"		path="mainmenu_mouseoff" />
+<Sound id="MAIN_LANDING_LIGHTS"		path="landinglights" />
+
+<Sound id="GALAXY_MAP"				path="galaxymapbutton" />
+<Sound id="GALAXY_PLANET_SELECT"	path="planetselect" />
+
+<Sound id="GET_READY"				path="Get_ready" />
+<Sound id="WELCOME"					path="Welcome" />
+<Sound id="GOODBYE"					path="Goodbye" />
+<Sound id="WELCOME_BACK"			path="Welcome_Back" />
+<Sound id="PUZZLE_SOLVED"			path="Puzzle_solved" />
+<Sound id="LEVEL_COMPELTE"			path="Level_Complete" />
+<Sound id="WORLD_COMPELTE"			path="World_Complete" />
+<Sound id="WARP_DRIVE_READY"		path="Warp_Drive_Ready" />
+<Sound id="WORLD_COMPLETE"			path="World_Complete" />
+<Sound id="NO_MORE_MOVES"			path="No_More_Moves" />
+
+</Resources>
+
+<Resources id="InitialMainMenu">
+
+<SetDefaults path="images" idprefix="IMAGE_" />
+<Image id="MAIN_BKG"				a8r8g8b8 path="gameselector_bg" sm_path="sm_gameselector_bg" />
+<Image id="MAIN_FG"					path="gameselector_fg" />
+<Image id="MAIN_FOG_BANK"			path="fogbank1" />
+<Image id="MAIN_FOG_BANK_FG"		path="fogbank2" />
+<Image id="MAIN_STARFIELD"			path="starfield2" />
+<Image id="MAIN_STAR_SPARKLE"		path="star_sparkle" />
+<Image id="MAIN_COMET"				path="comet" />
+<Image id="MAIN_PLANET_1"			path="planet1" />
+
+</Resources>
+
+<Resources id="3dImages" >
+<SetDefaults path="images" idprefix="IMAGE_" />
+
+<Image id="HYPERSPACE"				path="nr_hyperspace" nobits3d />
+<Image id="HYPERSPACE_INITIAL"		path="nr_hyperspace_initial" nobits3d />
+<Image id="TUNNEL_END"				path="tunnelend" nobits3d />
+<Image id="WARP_LINES"				path="nr_warplines" nobits3d />
+<Image id="FIRE_RING"				path="firering" nobits3d />
+<Image id="BLACK_HOLE"				path="blackhole_chopped" nobits3d />
+<Image id="BLACK_HOLE_COVER"		path="holemask" nobits3d />
+
+</Resources>
+
+<Resources id="LoadingThread">
+<SetDefaults path="images" idprefix="IMAGE_" />
+
+<Image id="SMALL_GEMS"				path="SmallGems" />
+<Image id="WILDCARD_DESTROYER"		path="hypergem" sm_path="sm_hypergem" nobits3d />
+
+<Image id="HELP_INDICATOR"			path="HELP-INDICATOR" nobits />
+<Image id="HELP_INDICATOR_ARROW"	path="help_indicator_arrows" nobits />
+<Image id="HELP_ARROW"				path="hint_arrow" nobits />
+<Image id="GEM0"					path="gem0" sm_path="sm_gem0" nobits3d />
+<Image id="GEM1"					path="gem1" sm_path="sm_gem1" />
+<Image id="GEM2"					path="gem2" sm_path="sm_gem2" />
+<Image id="GEM3"					path="gem3" sm_path="sm_gem3" />
+<Image id="GEM4"					path="gem4" sm_path="sm_gem4" />
+<Image id="GEM5"					path="gem5" sm_path="sm_gem5" />
+<Image id="GEM6"					path="gem6" sm_path="sm_gem6" />
+<Image id="OLD_GEMS"				path="oldgems" nobits3d />
+<Image id="GEM_ADD"					path="gem_add" sm_path="sm_gem_add" nobits3d />
+<Image id="SELECT"					path="selector" />
+<Image id="WAIT_COMPONENT"			path="nr_waitbar" />
+<Image id="SPARKLE"					path="sparkle" />
+<Image id="EDIT_BOX"				path="editbox" />
+<Image id="BOARD_BORDER"			path="frame" zsm_path="sm_frame" nobits3d />
+<Image id="BOARD_RED_LIGHT"			path="WARNING-LIGHT" />
+<Image id="PUZZLE_FRAME"			path="PuzzleFrame" sm_path="sm_puzzleframe" nobits3d />
+<Image id="SIDEBAR_HINT_BUTTON"		path="hint" />
+<Image id="SIDEBAR_MENU_BUTTON"		path="menu" />
+<Image id="BOMB"					path="bomb" nobits />
+<Image id="EXPLOSION"				path="explosion" nobits />
+<Image id="SHARD"					path="gemshard" />
+<Image id="BIGSTAR"					path="bigstar" />
+<Image id="ROCK"					path="rock" />
+<Image id="ROCK_CHUNK"				path="rockchunk" />
+
+
+
+<Image id="BAR_LEFT"				path="barleft" />
+<Image id="BAR_RIGHT"				path="barright" />
+<Image id="BAR_MID"					path="barmid" />
+<Image id="CONTROLS_SCORE"			path="scorepod" />
+<Image id="CONTROLS_CLASSIC"		path="classicmode" />
+<Image id="CONTROLS_PUZZLE"			path="GADJET3balls" />
+<Image id="BUTTON_HILITE"			path="menu-rollover" />
+
+<Image id="RING_DUDE"				path="nr_ringdude" nobits />
+
+<Image id="GEM_LIGHTING"			path="al_litgems" nobits />
+<Image id="LIGHTNING"				path="lightning" nobits />
+<Image id="LIGHTNING_CENTER"		path="lightning_center" nobits />
+<Image id="POWER_GLOW"				path="powerglow" nobits />
+<Image id="MORE_GAMES_FRAME"		path="nr_MG_FRAME" nobits />
+<Image id="WARP_TOP_GLOW"			path="whitelovebar6" />
+<Image id="WARP_BOTTOM_GLOW"		path="whitelovebar9" />
+
+<Image id="HELP_GRID_4"				path="Grid-frame-4" nobits />
+<Image id="HELP_GRID_5"				path="Grid-frame-5" nobits />
+<Image id="ARROW_UP"				path="ArrowUp" nobits />
+
+<Image id="DIALOG"					path="dialogbox" nobits />
+<Image id="DIALOG_HEADER"			path="dialogtitle" nobits />
+<Image id="DIALOG_BUTTON"			path="dialogbutton" nobits />
+<Image id="DIALOG_BUTTON_GLOW"		path="DialogButtonGlow" />
+<Image id="SLIDER_TRACK"			path="slider-track" />
+<Image id="SLIDER_THUMB"			path="thumb" />
+<Image id="CHECKBOX"				path="Toggle" nobits />
+
+<Image id="UI_BIG_ROLLOVER"			path="Hint-rollover" />
+<Image id="UI_SMALL_ROLLOVER"		path="MENU-rollover" />
+<Image id="UI_BUTTON_HINT"			path="HINT" />
+<Image id="UI_BUTTON_MENU"			path="MENU" />
+<Image id="UI_BUTTON_UNDO"			path="UNDO" />
+<Image id="UI_BUTTON_PAUSE"			path="PAUSE" />
+
+<Image id="PUZZLE_WIDGET"			path="puzzlewidget" nobits3d />
+<Image id="PUZZLE_PODS"				path="pods" />
+<Image id="PUZZLE_PODS_LIT"			path="podslit" />
+<Image id="PUZZLE_DOME"				path="irisdoor" />
+<Image id="PUZZLE_DOME_MASK"		path="domemask" />
+<Image id="PUZZLE_DOME_SLIVER"		path="domesliver" />
+<Image id="PUZZLE_PUZZLE_LIT"		path="big-lighten" />
+<Image id="PUZZLE_THUMB_GEM"		path="thumbgem" />
+<Image id="PUZZLE_VAPOR1"			path="vapor1" />
+<Image id="PUZZLE_VAPOR2"			path="vapor2" />
+<Image id="PUZZLE_MAP_BUTTON"		path="Galaxy-Map-button" sm_path="Galaxy-Map-Button640" />
+<Image id="PUZZLE_MAP_BUTTON_GLOW"	path="MapButtonGlow" sm_path="Galaxy-Map-buttonglow640" />
+<Image id="PUZZLE_WARP_BUTTON"		path="WARPBUTTON" />
+<Image id="PUZZLE_WARP_GLOW"		path="WarpGlow" />
+
+<Image id="ENDLESS_WIDGET"			path="EndlessMedalian" nobits3d />
+<Image id="ENDLESS_CENTER_1"		path="EndlessCenterA" />
+<Image id="ENDLESS_CENTER_2"		path="EndlessCenterB" />
+<Image id="ENDLESS_CENTER_3"		path="EndlessCenterC" />
+<Image id="ENDLESS_CENTER_4"		path="EndlessCenterD" />
+<Image id="ENDLESS_CENTER_5"		path="EndlessCenterE" />
+<Image id="ENDLESS_CENTER_6"		path="EndlessCenterF" />
+<Image id="ENDLESS_CENTER_7"		path="EndlessCenterG" />
+<Image id="ENDLESS_OUTER_1"			path="EndlessOuter1" />
+<Image id="ENDLESS_OUTER_2"			path="EndlessOuter2" />
+<Image id="ENDLESS_OUTER_3"			path="EndlessOuter3" />
+<Image id="ENDLESS_OUTER_4"			path="EndlessOuter4" />
+<Image id="ENDLESS_OUTER_5"			path="EndlessOuter5" />
+<Image id="ENDLESS_OUTER_6"			path="EndlessOuter6" />
+<Image id="ENDLESS_OUTER_7"			path="EndlessOuter7" />
+<Image id="ENDLESS_SPARK_1"			path="Spark1" />
+<Image id="ENDLESS_SPARK_2"			path="Spark2" />
+<Image id="ENDLESS_SPARK_3"			path="Spark3" />
+<Image id="ENDLESS_GEM_HILITE"		path="SpecialgemHighlight" />
+
+<Image id="GALAXY_MAP"				path="GMAP" nobits />
+<Image id="GALAXY_BUTTON_HILITE"	path="GMBHighlite" nobits />
+<Image id="GALAXY_WARP_BUTTON"		path="GalaxyWarpButton" nobits />
+<Image id="GALAXY_CLOSE_BUTTON"		path="CLOSE-BUTTON" nobits />
+<Image id="GALAXY_HEADER"			path="Header_" nobits />
+<Image id="GALAXY_PLANET_ALPHA"		path="PlanetAlpha" nobits />
+<Image id="GALAXY_SUN_MOON_ALPHA"	path="CenterMoon" />
+<Image id="GALAXY_MOON_ALPHA"		path="MoonAlpha" />
+<Image id="GALAXY_PLANET_SELECT"	path="PlanetSolved" />
+<Image id="GALAXY_PLANET_COMPLETED"	path="gmsolvedplanet1" />
+<Image id="GALAXY_SUN_GLOW"			path="SunGlow" />
+<Image id="GALAXY_SUN_SWIRL"		path="Center-Halo" />
+<Image id="GALAXY_QUESTION"			path="questionmark" />
+<Image id="GALAXY_MOON_SELECT"		path="MoonSelect" />
+
+<Image id="HS_BOTTOM"				path="BttomBar" nobits />
+<Image id="HS_LEFT"					path="LEft-Panel" nobits />
+<Image id="HS_RIGHT"				path="Right-PAnel" nobits />
+<Image id="HS_TITLE"				path="ScoreTitle" nobits />
+<Image id="HS_TOP_BUTTON"			path="TopButtons" />
+<Image id="HS_BACK_TO_MENU_TEXT"	path="BACKTOMENU" />
+<Image id="HS_BACK_TO_GAME_TEXT"	path="BACKTOGAME" />
+<Image id="HS_PLAY_AGAIN_TEXT"		path="Play-Again" />
+<Image id="HS_RESET_SCORES_TEXT"	path="ResetScores" />
+<Image id="HS_BUTTON_ROLLOVER"		path="Top-Rollover" />
+
+<Image id="MAIN_GADGETS"			path="Menu-Gadgets" nobits />
+<Image id="MAIN_BIG_SELECT"			path="MMSGameelect" nobits />
+<Image id="MAIN_BIG_OVER"			path="MMSGamerollover" nobits />
+<Image id="MAIN_SMALL_GLOW"			path="SmallGLow" nobits />
+<Image id="MAIN_PLAY_GLOW"			path="PlayGLow" nobits />
+<Image id="MAIN_BOTTOM_GLOW"		path="BottomGLow" nobits />
+<Image id="MAIN_CLASSIC"			path="Classic" nobits />
+<Image id="MAIN_ACTION"				path="Action" nobits />
+<Image id="MAIN_PUZZLE"				path="Puzzle" nobits />
+<Image id="MAIN_ENDLESS"			path="Endless" nobits />
+<Image id="MAIN_TWILIGHT"			path="Twilight" nobits />
+<Image id="MAIN_HYPER"				path="Hyper" nobits />
+<Image id="MAIN_COGNITO"			path="Cognito" nobits />
+<Image id="MAIN_FINITY"				path="Finity" nobits />
+<Image id="MAIN_MORE_GAMES"			path="MoreGames" nobits />
+<Image id="MAIN_OPTIONS"			path="Options" nobits />
+<Image id="MAIN_SCORES"				path="Scores" nobits />
+<Image id="MAIN_PLAY"				path="Play" nobits />
+<Image id="MAIN_QUIT"				path="Quit" nobits />
+<Image id="MAIN_CENTER_TEXT"		path="centertext" sm_path="sm_centertext" nobits3d />
+<Image id="MAIN_LIGHT_BIG"			path="Big-Dim" nobits />
+<Image id="MAIN_LIGHT_MED"			path="Med-Dim" nobits />
+<Image id="MAIN_LIGHT_SMALL"		path="Small-Dim" nobits />
+<Image id="MAIN_CENTER_GLOW"		path="menu-centerglow" nobits />
+<Image id="MAIN_SECRET_GLOW"		path="Mysterglow" nobits />
+<Image id="MAIN_SECRET_FRAME"		path="Mystery" nobits />
+<Image id="MAIN_SECRET_SYMBOL"		path="Mysterysymbol" nobits />
+
+<SetDefaults path="data" idprefix="FONT_" />
+<Font id="CONTINUUM_MED_33"			path="wh_ContinuumMedium33.txt" />
+<Font id="CONTINUUM_MED_33_GLOW"	path="wh_ContinuumMedium33glow.txt" />
+<Font id="CONTINUUM_MED_18"			path="wh_ContinuumMedium18.txt" />
+<Font id="CONTINUUM_MED_18_GLOW"	path="wh_ContinuumMedium18glow.txt" />
+<Font id="VAG_ROUNDED_11"			path="VAGRoundedBT11.txt" sm_path="ContinuumMedium9.txt" />
+<Font id="CONTINUUM_BOLD_14_NUM"	path="ContinuumBold14.txt" />
+<Font id="CONTINUUM_BOLD_14_NUM_GLOW" path="ContinuumBold14glow.txt" />
+<Font id="CONTINUUM_BOLD_11_NUM"	path="ContinuumBold11.txt" />
+<Font id="CONTINUUM_BOLD_11_NUM_GLOW" path="ContinuumBold11glow.txt" />
+<Font id="DIGIT"					path="ContinuumBold60Outline.txt" />
+<Font id="BOMB"						path="BombFont.txt" />
+<Font id="HUGE"						path="QuincyCaps74gold2.txt" />
+<Font id="SCORE"					path="ContinuumBold27score.txt" />
+<Font id="DEBUG"					path="ContinuumMedium18outline.txt" sm_path="ContinuumMedium13.txt" />
+
+</Resources>
+
+</ResourceManifest>

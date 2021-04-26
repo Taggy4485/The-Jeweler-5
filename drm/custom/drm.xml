@@ -1,0 +1,347 @@
+﻿<Properties>
+  <Layout screen="WelcomeScreen">
+		<Image x="0" y="0" src="custom/images/home/home_bg" />
+		<Image x="10" y="10" src="common/images/common/popcap_logo" />
+		<Image x="95" y="66" src="box_art" />
+		<Text x="393" y="102" color="#666666" font="FONT_OMNESMEDIUM18" id="WelcomeScreenHeader" />
+		<Text x="393" y="120" width="300" color="#666666" font="FONT_CALIBRI11" id="WelcomeScreenBody" />
+		<Text x="116" y="526" valign="center" width="640" height="25" color="#999999" font="!sys:Arial:8" id="CopyrightDisclaimer" />
+		<Button id="Help" x="588" y="16" normal="common/images/common/btn_help" over="common/images/common/btn_help_over" down="common/images/common/btn_help_down" function="ShowHelp" />
+		<Button id="Security" x="655" y="16" normal="common/images/common/btn_security" over="common/images/common/btn_security_over" down="common/images/common/btn_security_down" function="ShowSecurity" />
+		<Button id="PlayNow" x="97" y="416" normal="custom/images/home/btn_play_now" over="custom/images/home/btn_play_now_over" down="custom/images/home/btn_play_now_down" function="Play" />
+	</Layout>
+  <Layout screen="TipsTricks1">
+		<Image x="0" y="0" src="custom/images/home/home_bg" />
+		<Image x="10" y="10" src="common/images/common/popcap_logo" />
+		<Image x="95" y="66" src="box_art" />
+		<Image x="393" y="170" src="custom/images/tip_tiles/tip1_1tile" />
+		<Image x="393" y="333" src="custom/images/tip_tiles/tip1_2tile" />
+		<Text x="398" y="102" color="#666666" font="FONT_OMNESMEDIUM18" id="TipsTricksHeader" />
+		<Text x="400" y="153" color="#3B94BB" font="FONT_OMNESMEDIUM14" id="Tip1_1Header" />
+		<Text x="501" y="170" width="230" color="#666666" font="FONT_CALIBRI11" id="Tip1_1Body" />
+		<Text x="400" y="316" color="#3B94BB" font="FONT_OMNESMEDIUM14" id="Tip1_2Header" />
+		<Text x="501" y="333" width="230" color="#666666" font="FONT_CALIBRI11" id="Tip1_2Body" />
+		<Text x="116" y="526" valign="center" width="640" height="25" color="#999999" font="!sys:Arial:8" id="CopyrightDisclaimer" />
+		<Button id="Help" x="588" y="16" normal="common/images/common/btn_help" over="common/images/common/btn_help_over" down="common/images/common/btn_help_down" function="ShowHelp" />
+		<Button id="Security" x="655" y="16" normal="common/images/common/btn_security" over="common/images/common/btn_security_over" down="common/images/common/btn_security_down" function="ShowSecurity" />
+		<Button id="PlayNow" x="97" y="416" normal="custom/images/home/btn_play_now" over="custom/images/home/btn_play_now_over" down="custom/images/home/btn_play_now_down" function="Play" />
+	</Layout>
+  <Layout screen="TipsTricks2">
+		<Image x="0" y="0" src="custom/images/home/home_bg" />
+		<Image x="10" y="10" src="common/images/common/popcap_logo" />
+		<Image x="95" y="66" src="box_art" />
+		<Image x="393" y="170" src="custom/images/tip_tiles/tip2_1tile" />
+		<Image x="393" y="333" src="custom/images/tip_tiles/tip2_2tile" />
+		<Text x="398" y="102" color="#666666" font="FONT_OMNESMEDIUM18" id="TipsTricksHeader" />
+		<Text x="400" y="153" color="#3B94BB" font="FONT_OMNESMEDIUM14" id="Tip2_1Header" />
+		<Text x="501" y="170" width="230" color="#666666" font="FONT_CALIBRI11" id="Tip2_1Body" />
+		<Text x="400" y="316" color="#3B94BB" font="FONT_OMNESMEDIUM14" id="Tip2_2Header" />
+		<Text x="501" y="333" width="230" color="#666666" font="FONT_CALIBRI11" id="Tip2_2Body" />
+		<Text x="116" y="526" valign="center" width="640" height="25" color="#999999" font="!sys:Arial:8" id="CopyrightDisclaimer" />
+		<Button id="Help" x="588" y="16" normal="common/images/common/btn_help" over="common/images/common/btn_help_over" down="common/images/common/btn_help_down" function="ShowHelp" />
+		<Button id="Security" x="655" y="16" normal="common/images/common/btn_security" over="common/images/common/btn_security_over" down="common/images/common/btn_security_down" function="ShowSecurity" />
+		<Button id="PlayNow" x="97" y="416" normal="custom/images/home/btn_play_now" over="custom/images/home/btn_play_now_over" down="custom/images/home/btn_play_now_down" function="Play" />
+	</Layout>
+  <Layout screen="TipsTricks3">
+		<Image x="0" y="0" src="custom/images/home/home_bg" />
+		<Image x="10" y="10" src="common/images/common/popcap_logo" />
+		<Image x="95" y="66" src="box_art" />
+		<Image x="393" y="170" src="custom/images/tip_tiles/tip3_1tile" />
+		<Image x="393" y="333" src="custom/images/tip_tiles/tip3_2tile" />
+		<Text x="398" y="102" color="#666666" font="FONT_OMNESMEDIUM18" id="TipsTricksHeader" />
+		<Text x="400" y="153" color="#3B94BB" font="FONT_OMNESMEDIUM14" id="Tip3_1Header" />
+		<Text x="501" y="170" width="230" color="#666666" font="FONT_CALIBRI11" id="Tip3_1Body" />
+		<Text x="400" y="316" color="#3B94BB" font="FONT_OMNESMEDIUM14" id="Tip3_2Header" />
+		<Text x="501" y="333" width="230" color="#666666" font="FONT_CALIBRI11" id="Tip3_2Body" />
+		<Text x="116" y="526" valign="center" width="640" height="25" color="#999999" font="!sys:Arial:8" id="CopyrightDisclaimer" />
+		<Button id="Help" x="588" y="16" normal="common/images/common/btn_help" over="common/images/common/btn_help_over" down="common/images/common/btn_help_down" function="ShowHelp" />
+		<Button id="Security" x="655" y="16" normal="common/images/common/btn_security" over="common/images/common/btn_security_over" down="common/images/common/btn_security_down" function="ShowSecurity" />
+		<Button id="PlayNow" x="97" y="416" normal="custom/images/home/btn_play_now" over="custom/images/home/btn_play_now_over" down="custom/images/home/btn_play_now_down" function="Play" />
+	</Layout>
+  <Layout screen="TipsTricks4">
+		<Image x="0" y="0" src="custom/images/home/home_bg" />
+		<Image x="10" y="10" src="common/images/common/popcap_logo" />
+		<Image x="95" y="66" src="box_art" />
+		<Image x="393" y="170" src="custom/images/tip_tiles/tip4_1tile" />
+		<Image x="393" y="333" src="custom/images/tip_tiles/tip4_2tile" />
+		<Text x="398" y="102" color="#666666" font="FONT_OMNESMEDIUM18" id="TipsTricksHeader" />
+		<Text x="400" y="153" color="#3B94BB" font="FONT_OMNESMEDIUM14" id="Tip4_1Header" />
+		<Text x="501" y="170" width="230" color="#666666" font="FONT_CALIBRI11" id="Tip4_1Body" />
+		<Text x="400" y="316" color="#3B94BB" font="FONT_OMNESMEDIUM14" id="Tip4_2Header" />
+		<Text x="501" y="333" width="230" color="#666666" font="FONT_CALIBRI11" id="Tip4_2Body" />
+		<Text x="116" y="526" valign="center" width="640" height="25" color="#999999" font="!sys:Arial:8" id="CopyrightDisclaimer" />
+		<Button id="Help" x="588" y="16" normal="common/images/common/btn_help" over="common/images/common/btn_help_over" down="common/images/common/btn_help_down" function="ShowHelp" />
+		<Button id="Security" x="655" y="16" normal="common/images/common/btn_security" over="common/images/common/btn_security_over" down="common/images/common/btn_security_down" function="ShowSecurity" />
+		<Button id="PlayNow" x="97" y="416" normal="custom/images/home/btn_play_now" over="custom/images/home/btn_play_now_over" down="custom/images/home/btn_play_now_down" function="Play" />
+	</Layout>
+  <Layout screen="TipsTricks5">
+		<Image x="0" y="0" src="custom/images/home/home_bg" />
+		<Image x="10" y="10" src="common/images/common/popcap_logo" />
+		<Image x="95" y="66" src="box_art" />
+		<Image x="393" y="170" src="custom/images/tip_tiles/tip5_1tile" />
+		<Image x="393" y="333" src="custom/images/tip_tiles/tip5_2tile" />
+		<Text x="398" y="102" color="#666666" font="FONT_OMNESMEDIUM18" id="TipsTricksHeader" />
+		<Text x="400" y="153" color="#3B94BB" font="FONT_OMNESMEDIUM14" id="Tip5_1Header" />
+		<Text x="501" y="170" width="230" color="#666666" font="FONT_CALIBRI11" id="Tip5_1Body" />
+		<Text x="400" y="316" color="#3B94BB" font="FONT_OMNESMEDIUM14" id="Tip5_2Header" />
+		<Text x="501" y="333" width="230" color="#666666" font="FONT_CALIBRI11" id="Tip5_2Body" />
+		<Text x="116" y="526" valign="center" width="640" height="25" color="#999999" font="!sys:Arial:8" id="CopyrightDisclaimer" />
+		<Button id="Help" x="588" y="16" normal="common/images/common/btn_help" over="common/images/common/btn_help_over" down="common/images/common/btn_help_down" function="ShowHelp" />
+		<Button id="Security" x="655" y="16" normal="common/images/common/btn_security" over="common/images/common/btn_security_over" down="common/images/common/btn_security_down" function="ShowSecurity" />
+		<Button id="PlayNow" x="97" y="416" normal="custom/images/home/btn_play_now" over="custom/images/home/btn_play_now_over" down="custom/images/home/btn_play_now_down" function="Play" />
+	</Layout>
+  <Layout screen="TipsTricks6">
+		<Image x="0" y="0" src="custom/images/home/home_bg" />
+		<Image x="10" y="10" src="common/images/common/popcap_logo" />
+		<Image x="95" y="66" src="box_art" />
+		<Image x="393" y="170" src="custom/images/tip_tiles/tip6_1tile" />
+		<Image x="393" y="333" src="custom/images/tip_tiles/tip6_2tile" />
+		<Text x="398" y="102" color="#666666" font="FONT_OMNESMEDIUM18" id="TipsTricksHeader" />
+		<Text x="400" y="153" color="#3B94BB" font="FONT_OMNESMEDIUM14" id="Tip6_1Header" />
+		<Text x="501" y="170" width="230" color="#666666" font="FONT_CALIBRI11" id="Tip6_1Body" />
+		<Text x="400" y="316" color="#3B94BB" font="FONT_OMNESMEDIUM14" id="Tip6_2Header" />
+		<Text x="501" y="333" width="230" color="#666666" font="FONT_CALIBRI11" id="Tip6_2Body" />
+		<Text x="116" y="526" valign="center" width="640" height="25" color="#999999" font="!sys:Arial:8" id="CopyrightDisclaimer" />
+		<Button id="Help" x="588" y="16" normal="common/images/common/btn_help" over="common/images/common/btn_help_over" down="common/images/common/btn_help_down" function="ShowHelp" />
+		<Button id="Security" x="655" y="16" normal="common/images/common/btn_security" over="common/images/common/btn_security_over" down="common/images/common/btn_security_down" function="ShowSecurity" />
+		<Button id="PlayNow" x="97" y="416" normal="custom/images/home/btn_play_now" over="custom/images/home/btn_play_now_over" down="custom/images/home/btn_play_now_down" function="Play" />
+	</Layout>
+  <Layout screen="PopularPicks1">
+		<Image x="0" y="0" src="custom/images/home/home_bg" />
+		<Image x="10" y="10" src="common/images/common/popcap_logo" />
+		<Image x="95" y="66" src="box_art" />
+		<Text x="398" y="102" color="#666666" font="FONT_OMNESMEDIUM20" id="PopularPicksHeader" />
+		<Text x="509" y="155" width="195" color="#666666" font="FONT_CALIBRI11" id="PopularPicks1_1Body" />
+		<Text x="509" y="270" width="195" color="#666666" font="FONT_CALIBRI11" id="PopularPicks1_2Body" />
+		<Text x="509" y="385" width="195" color="#666666" font="FONT_CALIBRI11" id="PopularPicks1_3Body" />
+		<Text x="116" y="526" valign="center" width="640" height="25" color="#999999" font="!sys:Arial:8" id="CopyrightDisclaimer" />
+		<Button id="PopularPicks1Tile" x="393" y="125" normal="custom/images/game_tiles/gametile_bj2" over="custom/images/game_tiles/gametile_bj2_over" function="DoLink1" />
+		<Button id="PopularPicks2Tile" x="393" y="240" normal="custom/images/game_tiles/gametile_bwa" over="custom/images/game_tiles/gametile_bwa_over" function="DoLink2" />
+		<Button id="PopularPicks3Tile" x="393" y="355" normal="custom/images/game_tiles/gametile_chuzzle" over="custom/images/game_tiles/gametile_chuzzle_over" function="DoLink3" />
+		<Button id="Help" x="588" y="16" normal="common/images/common/btn_help" over="common/images/common/btn_help_over" down="common/images/common/btn_help_down" function="ShowHelp" />
+		<Button id="Security" x="655" y="16" normal="common/images/common/btn_security" over="common/images/common/btn_security_over" down="common/images/common/btn_security_down" function="ShowSecurity" />
+		<Button id="PlayNow" x="97" y="416" normal="custom/images/home/btn_play_now" over="custom/images/home/btn_play_now_over" down="custom/images/home/btn_play_now_down" function="Play" />
+		<Link id="PopularPicks1Header" x="509" y="137" halign="left" label="PopularPicks1_1Header" font="FONT_OMNESMEDIUM14" underline_size="0" color="#3B94BB" color_over="#D88400" function="DoLink1" />
+		<Link id="PopularPicks2Header" x="509" y="252" halign="left" label="PopularPicks1_2Header" font="FONT_OMNESMEDIUM14" underline_size="0" color="#3B94BB" color_over="#D88400" function="DoLink2" />
+		<Link id="PopularPicks3Header" x="509" y="367" halign="left" label="PopularPicks1_3Header" font="FONT_OMNESMEDIUM14" underline_size="0" color="#3B94BB" color_over="#D88400" function="DoLink3" />
+	</Layout>
+  <Layout screen="PopularPicks2">
+		<Image x="0" y="0" src="custom/images/home/home_bg" />
+		<Image x="10" y="10" src="common/images/common/popcap_logo" />
+		<Image x="95" y="66" src="box_art" />
+		<Text x="398" y="102" color="#666666" font="FONT_OMNESMEDIUM20" id="PopularPicksHeader" />
+		<Text x="509" y="155" width="195" color="#666666" font="FONT_CALIBRI11" id="PopularPicks2_1Body" />
+		<Text x="509" y="270" width="195" color="#666666" font="FONT_CALIBRI11" id="PopularPicks2_2Body" />
+		<Text x="509" y="385" width="195" color="#666666" font="FONT_CALIBRI11" id="PopularPicks2_3Body" />
+		<Text x="116" y="526" valign="center" width="640" height="25" color="#999999" font="!sys:Arial:8" id="CopyrightDisclaimer" />
+		<Button id="PopularPicks1Tile" x="393" y="125" normal="custom/images/game_tiles/gametile_bj2" over="custom/images/game_tiles/gametile_bj2_over" function="DoLink1" />
+		<Button id="PopularPicks2Tile" x="393" y="240" normal="custom/images/game_tiles/gametile_bookworm" over="custom/images/game_tiles/gametile_bookworm_over" function="DoLink2" />
+		<Button id="PopularPicks3Tile" x="393" y="355" normal="custom/images/game_tiles/gametile_aalt" over="custom/images/game_tiles/gametile_aalt_over" function="DoLink3" />
+		<Button id="Help" x="588" y="16" normal="common/images/common/btn_help" over="common/images/common/btn_help_over" down="common/images/common/btn_help_down" function="ShowHelp" />
+		<Button id="Security" x="655" y="16" normal="common/images/common/btn_security" over="common/images/common/btn_security_over" down="common/images/common/btn_security_down" function="ShowSecurity" />
+		<Button id="PlayNow" x="97" y="416" normal="custom/images/home/btn_play_now" over="custom/images/home/btn_play_now_over" down="custom/images/home/btn_play_now_down" function="Play" />
+		<Link id="PopularPicks1Header" x="509" y="137" halign="left" label="PopularPicks2_1Header" font="FONT_OMNESMEDIUM14" underline_size="0" color="#3B94BB" color_over="#D88400" function="DoLink1" />
+		<Link id="PopularPicks2Header" x="509" y="252" halign="left" label="PopularPicks2_2Header" font="FONT_OMNESMEDIUM14" underline_size="0" color="#3B94BB" color_over="#D88400" function="DoLink2" />
+		<Link id="PopularPicks3Header" x="509" y="367" halign="left" label="PopularPicks2_3Header" font="FONT_OMNESMEDIUM14" underline_size="0" color="#3B94BB" color_over="#D88400" function="DoLink3" />
+	</Layout>
+  <Layout screen="PopularPicks3">
+		<Image x="0" y="0" src="custom/images/home/home_bg" />
+		<Image x="10" y="10" src="common/images/common/popcap_logo" />
+		<Image x="95" y="66" src="box_art" />
+		<Text x="398" y="102" color="#666666" font="FONT_OMNESMEDIUM20" id="PopularPicksHeader" />
+		<Text x="509" y="155" width="195" color="#666666" font="FONT_CALIBRI11" id="PopularPicks3_1Body" />
+		<Text x="509" y="270" width="195" color="#666666" font="FONT_CALIBRI11" id="PopularPicks3_2Body" />
+		<Text x="509" y="385" width="195" color="#666666" font="FONT_CALIBRI11" id="PopularPicks3_3Body" />
+		<Text x="116" y="526" valign="center" width="640" height="25" color="#999999" font="!sys:Arial:8" id="CopyrightDisclaimer" />
+		<Button id="PopularPicks1Tile" x="393" y="125" normal="custom/images/game_tiles/gametile_bj2" over="custom/images/game_tiles/gametile_bj2_over" function="DoLink1" />
+		<Button id="PopularPicks2Tile" x="393" y="240" normal="custom/images/game_tiles/gametile_peggle" over="custom/images/game_tiles/gametile_peggle_over" function="DoLink2" />
+		<Button id="PopularPicks3Tile" x="393" y="355" normal="custom/images/game_tiles/gametile_insani" over="custom/images/game_tiles/gametile_insani_over" function="DoLink3" />
+		<Button id="Help" x="588" y="16" normal="common/images/common/btn_help" over="common/images/common/btn_help_over" down="common/images/common/btn_help_down" function="ShowHelp" />
+		<Button id="Security" x="655" y="16" normal="common/images/common/btn_security" over="common/images/common/btn_security_over" down="common/images/common/btn_security_down" function="ShowSecurity" />
+		<Button id="PlayNow" x="97" y="416" normal="custom/images/home/btn_play_now" over="custom/images/home/btn_play_now_over" down="custom/images/home/btn_play_now_down" function="Play" />
+		<Link id="PopularPicks1Header" x="509" y="137" halign="left" label="PopularPicks3_1Header" font="FONT_OMNESMEDIUM14" underline_size="0" color="#3B94BB" color_over="#D88400" function="DoLink1" />
+		<Link id="PopularPicks2Header" x="509" y="252" halign="left" label="PopularPicks3_2Header" font="FONT_OMNESMEDIUM14" underline_size="0" color="#3B94BB" color_over="#D88400" function="DoLink2" />
+		<Link id="PopularPicks3Header" x="509" y="367" halign="left" label="PopularPicks3_3Header" font="FONT_OMNESMEDIUM14" underline_size="0" color="#3B94BB" color_over="#D88400" function="DoLink3" />
+	</Layout>
+  <Layout screen="FeaturedGame1">
+		<Image x="0" y="0" src="custom/images/home/home_bg" />
+		<Image x="10" y="10" src="common/images/common/popcap_logo" />
+		<Image x="95" y="66" src="box_art" />
+		<Image x="389" y="117" src="custom/images/home/screenshots_background_small" />
+		
+		<!--
+		<Image x="445" y="130" src="custom/images/home/dynamic/featured_game_screenshot_1" />
+		-->
+		
+		<Text x="399" y="103" color="#666666" font="FONT_OMNESMEDIUM18" id="FeaturedGameHeader" />
+		<Text x="399" y="366" color="#666666" font="FONT_OMNESMEDIUM18" id="PopularPicksHeader" />
+		<Text x="116" y="526" valign="center" width="640" height="25" color="#999999" font="!sys:Arial:8" id="CopyrightDisclaimer" />
+		<Button id="ScreenshotPrev" x="400" y="197" normal="custom/images/home/btn_prev_screenshot" over="custom/images/home/btn_prev_screenshot_over" down="custom/images/home/btn_prev_screenshot_down" function="ShowPrevSS" />
+		<Button id="ScreenshotNext" x="684" y="197" normal="custom/images/home/btn_next_screenshot" over="custom/images/home/btn_next_screenshot_over" down="custom/images/home/btn_next_screenshot_down" function="ShowNextSS" />
+		<Button id="PopularPicks1Tile" x="394" y="384" normal="custom/images/game_tiles/gametile_zuma" over="custom/images/game_tiles/gametile_zuma_over" function="DoLink2" />
+		<Button id="PopularPicks1Tile" x="518" y="384" normal="custom/images/game_tiles/gametile_bwa" over="custom/images/game_tiles/gametile_bwa_over" function="DoLink3" />
+		<Button id="PopularPicks1Tile" x="638" y="384" normal="custom/images/game_tiles/gametile_chuzzle" over="custom/images/game_tiles/gametile_chuzzle_over" function="DoLink4" />
+		<Button id="Help" x="588" y="16" normal="common/images/common/btn_help" over="common/images/common/btn_help_over" down="common/images/common/btn_help_down" function="ShowHelp" />
+		<Button id="Security" x="655" y="16" normal="common/images/common/btn_security" over="common/images/common/btn_security_over" down="common/images/common/btn_security_down" function="ShowSecurity" />
+		<Button id="PlayNow" x="97" y="416" normal="custom/images/home/btn_play_now" over="custom/images/home/btn_play_now_over" down="custom/images/home/btn_play_now_down" function="Play" />
+		<Link id="PopularPicks1Header" x="442" y="486" halign="center" label="FeaturedGame1_1Header" font="FONT_CALIBRI12" underline_size="0" color="#3B94BB" color_over="#D88400" function="DoLink2" />
+		<Link id="PopularPicks2Header" x="566" y="486" halign="center" label="FeaturedGame1_2Header" font="FONT_CALIBRI12" underline_size="0" color="#3B94BB" color_over="#D88400" function="DoLink3" />
+		<Link id="PopularPicks3Header" x="686" y="486" halign="center" label="FeaturedGame1_3Header" font="FONT_CALIBRI12" underline_size="0" color="#3B94BB" color_over="#D88400" function="DoLink4" />
+	</Layout>
+  <Layout screen="FeaturedGame2">
+		<Image x="0" y="0" src="custom/images/home/home_bg" />
+		<Image x="10" y="10" src="common/images/common/popcap_logo" />
+		<Image x="95" y="66" src="box_art" />
+		<Image x="389" y="117" src="custom/images/home/screenshots_background_small" />
+		
+		<!--
+		<Image x="445" y="130" src="custom/images/home/dynamic/featured_game_screenshot_1" />
+		-->
+		
+		<Text x="399" y="103" color="#666666" font="FONT_OMNESMEDIUM18" id="FeaturedGameHeader" />
+		<Text x="399" y="366" color="#666666" font="FONT_OMNESMEDIUM18" id="PopularPicksHeader" />
+		<Text x="116" y="526" valign="center" width="640" height="25" color="#999999" font="!sys:Arial:8" id="CopyrightDisclaimer" />
+		<Button id="ScreenshotPrev" x="400" y="197" normal="custom/images/home/btn_prev_screenshot" over="custom/images/home/btn_prev_screenshot_over" down="custom/images/home/btn_prev_screenshot_down" function="ShowPrevSS" />
+		<Button id="ScreenshotNext" x="684" y="197" normal="custom/images/home/btn_next_screenshot" over="custom/images/home/btn_next_screenshot_over" down="custom/images/home/btn_next_screenshot_down" function="ShowNextSS" />
+		<Button id="PopularPicks1Tile" x="394" y="384" normal="custom/images/game_tiles/gametile_pegglenights" over="custom/images/game_tiles/gametile_pegglenights_over" function="DoLink2" />
+		<Button id="PopularPicks1Tile" x="518" y="384" normal="custom/images/game_tiles/gametile_zuma" over="custom/images/game_tiles/gametile_zuma_over" function="DoLink3" />
+		<Button id="PopularPicks1Tile" x="638" y="384" normal="custom/images/game_tiles/gametile_aalt" over="custom/images/game_tiles/gametile_aalt_over" function="DoLink4" />
+		<Button id="Help" x="588" y="16" normal="common/images/common/btn_help" over="common/images/common/btn_help_over" down="common/images/common/btn_help_down" function="ShowHelp" />
+		<Button id="Security" x="655" y="16" normal="common/images/common/btn_security" over="common/images/common/btn_security_over" down="common/images/common/btn_security_down" function="ShowSecurity" />
+		<Button id="PlayNow" x="97" y="416" normal="custom/images/home/btn_play_now" over="custom/images/home/btn_play_now_over" down="custom/images/home/btn_play_now_down" function="Play" />
+		<Link id="PopularPicks1Header" x="442" y="486" halign="center" label="FeaturedGame2_1Header" font="FONT_CALIBRI12" underline_size="0" color="#3B94BB" color_over="#D88400" function="DoLink2" />
+		<Link id="PopularPicks2Header" x="566" y="486" halign="center" label="FeaturedGame2_2Header" font="FONT_CALIBRI12" underline_size="0" color="#3B94BB" color_over="#D88400" function="DoLink3" />
+		<Link id="PopularPicks3Header" x="686" y="486" halign="center" label="FeaturedGame2_3Header" font="FONT_CALIBRI12" underline_size="0" color="#3B94BB" color_over="#D88400" function="DoLink4" />
+	</Layout>
+  <Layout screen="FeaturedGame3">
+		<Image x="0" y="0" src="custom/images/home/home_bg" />
+		<Image x="10" y="10" src="common/images/common/popcap_logo" />
+		<Image x="95" y="66" src="box_art" />
+		<Image x="389" y="117" src="custom/images/home/screenshots_background_small" />
+		
+		<!--
+		<Image x="445" y="130" src="custom/images/home/dynamic/featured_game_screenshot_1" />
+		-->
+		
+		<Text x="399" y="103" color="#666666" font="FONT_OMNESMEDIUM18" id="FeaturedGameHeader" />
+		<Text x="399" y="366" color="#666666" font="FONT_OMNESMEDIUM18" id="PopularPicksHeader" />
+		<Text x="116" y="526" valign="center" width="640" height="25" color="#999999" font="!sys:Arial:8" id="CopyrightDisclaimer" />
+		<Button id="ScreenshotPrev" x="400" y="197" normal="custom/images/home/btn_prev_screenshot" over="custom/images/home/btn_prev_screenshot_over" down="custom/images/home/btn_prev_screenshot_down" function="ShowPrevSS" />
+		<Button id="ScreenshotNext" x="684" y="197" normal="custom/images/home/btn_next_screenshot" over="custom/images/home/btn_next_screenshot_over" down="custom/images/home/btn_next_screenshot_down" function="ShowNextSS" />
+		<Button id="PopularPicks1Tile" x="394" y="384" normal="custom/images/game_tiles/gametile_chuzzle" over="custom/images/game_tiles/gametile_chuzzle_over" function="DoLink2" />
+		<Button id="PopularPicks1Tile" x="518" y="384" normal="custom/images/game_tiles/gametile_bookworm" over="custom/images/game_tiles/gametile_bookworm_over" function="DoLink3" />
+		<Button id="PopularPicks1Tile" x="638" y="384" normal="custom/images/game_tiles/gametile_zuma" over="custom/images/game_tiles/gametile_zuma_over" function="DoLink4" />
+		<Button id="Help" x="588" y="16" normal="common/images/common/btn_help" over="common/images/common/btn_help_over" down="common/images/common/btn_help_down" function="ShowHelp" />
+		<Button id="Security" x="655" y="16" normal="common/images/common/btn_security" over="common/images/common/btn_security_over" down="common/images/common/btn_security_down" function="ShowSecurity" />
+		<Button id="PlayNow" x="97" y="416" normal="custom/images/home/btn_play_now" over="custom/images/home/btn_play_now_over" down="custom/images/home/btn_play_now_down" function="Play" />
+		<Link id="PopularPicks1Header" x="442" y="486" halign="center" label="FeaturedGame3_1Header" font="FONT_CALIBRI12" underline_size="0" color="#3B94BB" color_over="#D88400" function="DoLink2" />
+		<Link id="PopularPicks2Header" x="566" y="486" halign="center" label="FeaturedGame3_2Header" font="FONT_CALIBRI12" underline_size="0" color="#3B94BB" color_over="#D88400" function="DoLink3" />
+		<Link id="PopularPicks3Header" x="686" y="486" halign="center" label="FeaturedGame3_3Header" font="FONT_CALIBRI12" underline_size="0" color="#3B94BB" color_over="#D88400" function="DoLink4" />
+	</Layout>
+  <Bullets id="intro" color="#666666" font="FONT_CALIBRI11" width="360">
+		<Bullet id="Bullet1" image="common/images/common/bullet_short" spacing="10">Speichere deine Highscores für die Nachwelt!</Bullet>
+		<Bullet id="Bullet2" image="common/images/common/bullet_short" spacing="10">Neue hochauflösende Grafik erweckt die Magie zum Leben!</Bullet>
+		<Bullet id="Bullet3" image="common/images/common/bullet_short" spacing="10">Verbesserte Level-Hintergründe und Geheimnis-Edelsteine!</Bullet>
+		<Bullet id="Bullet4" image="common/images/common/bullet_short">PopCap speichert eine Kopie des Spiels, falls du es&cr;erneut herunterladen musst.</Bullet>
+	</Bullets>
+  <Bullets id="outro1" color="#666666" font="FONT_CALIBRI11" width="200">
+		<Bullet id="Bullet1" image="common/images/common/bullet_tall" spacing="10">Speichere deine Highscores für die Nachwelt!</Bullet>
+		<Bullet id="Bullet2" image="common/images/common/bullet_tall" spacing="5">Neue hochauflösende Grafik erweckt die Magie zum Leben!</Bullet>
+	</Bullets>
+  <Bullets id="outro2" color="#666666" font="FONT_CALIBRI11" width="200">
+		<Bullet id="Bullet1" image="common/images/common/bullet_tall" spacing="10">Verbesserte Level-Hintergründe und Geheimnis-Edelsteine!</Bullet>
+		<Bullet id="Bullet2" image="common/images/common/bullet_tall" spacing="5">PopCap speichert eine Kopie des Spiels, falls du es erneut herunterladen musst.</Bullet>
+	</Bullets>
+  <String id="TrialScreenShotPath">custom/images/game_screens/</String>
+  <String id="TrialScreenShotNames">screenshot1,screenshot2,screenshot3,screenshot4</String>
+  <String id="TrialScreenShotCoords">41,128</String>
+  <String id="PopularPicks1_1Header">Bejeweled Twist</String>
+  <String id="PopularPicks1_2Header">Bookworm Adventures</String>
+  <String id="PopularPicks1_3Header">Chuzzle</String>
+  <String id="PopularPicks2_1Header">Bejeweled Twist</String>
+  <String id="PopularPicks2_2Header">Bookworm</String>
+  <String id="PopularPicks2_3Header">Amazing Adventures</String>
+  <String id="PopularPicks3_1Header">Bejeweled Twist</String>
+  <String id="PopularPicks3_2Header">Peggle</String>
+  <String id="PopularPicks3_3Header">Insaniquarium</String>
+  <String id="PopularPicks1_1Body">Eine brilliante neue Art, Bejeweled zu spielen!</String>
+  <String id="PopularPicks1_2Body">Unterstütze Lex dabei, gegen die größte Bedrohung anzutreten, die die große Bibliothek je gesehen hat!</String>
+  <String id="PopularPicks1_3Body">Es ist eine kuschelige Explosion liebenswerter Kombinations- herausforderungen, die keine Pause kennt!</String>
+  <String id="PopularPicks2_1Body">Eine brilliante neue Art, Bejeweled zu spielen!</String>
+  <String id="PopularPicks2_2Body">Wörter! Wörter! Wörter! Diese klassische Vokabel- herausforderung weiß wirklich, wie man S-p-a-ß buchstabiert.</String>
+  <String id="PopularPicks2_3Body">Begib dich auf eine Reise um die Welt, um den teuersten Edelstein zu finden, den es je gab!</String>
+  <String id="PopularPicks3_1Body">Eine brilliante neue Art, Bejeweled zu spielen!</String>
+  <String id="PopularPicks3_2Body">Räume alle orangefarbenen Spielsteine ab, während du von 10 skurrilen Lehrern zu wahrer Peggle-Größe geführt wirst.</String>
+  <String id="PopularPicks3_3Body">Füttere Fische im verrücktesten Aquarium, das es gibt, und tritt gegen Außerirdische an!</String>
+  <String id="PopularPicks1_1Link">http://www.popcap.com/games/bejeweledtwist/?whid=7:2:2:3:51</String>
+  <String id="PopularPicks1_2Link">http://www.popcap.com/games/bookwormadventures?whid=51:2:2:3:12</String>
+  <String id="PopularPicks1_3Link">http://www.popcap.com/games/chuzzle?whid=51:2:2:3:14</String>
+  <String id="PopularPicks2_1Link">http://www.popcap.com/games/bejeweledtwist/?whid=7:2:2:3:51</String>
+  <String id="PopularPicks2_2Link">http://www.popcap.com/games/bookworm?whid=51:2:2:3:11</String>
+  <String id="PopularPicks2_3Link">http://www.popcap.com/games/amazing-adventures-around-the-world?whid=51:2:2:3:2</String>
+  <String id="PopularPicks3_1Link">http://www.popcap.com/games/bejeweledtwist/?whid=7:2:2:3:51</String>
+  <String id="PopularPicks3_2Link">http://www.popcap.com/games/peggle?whid=51:2:2:3:35</String>
+  <String id="PopularPicks3_3Link">http://www.popcap.com/games/insaniquarium?whid=51:2:2:3:24</String>
+  <String id="FeaturedGame1_1Header">Zuma</String>
+  <String id="FeaturedGame1_2Header">Bookworm Adventures</String>
+  <String id="FeaturedGame1_3Header">Chuzzle</String>
+  <String id="FeaturedGame2_1Header">Peggle Nights</String>
+  <String id="FeaturedGame2_2Header">Zuma</String>
+  <String id="FeaturedGame2_3Header">Amazing Adventures</String>
+  <String id="FeaturedGame3_1Header">Chuzzle</String>
+  <String id="FeaturedGame3_2Header">Bookworm</String>
+  <String id="FeaturedGame3_3Header">Zuma</String>
+  <String id="FeaturedGame1_1Link">http://www.popcap.com/games/bejeweledtwist/?whid=7:2:2:3:51</String>
+  <String id="FeaturedGame1_2Link">http://www.popcap.com/games/zuma?whid=51:1:2:2:51</String>
+  <String id="FeaturedGame1_3Link">http://www.popcap.com/games/bookwormadventures?whid=51:1:2:2:12</String>
+  <String id="FeaturedGame1_4Link">http://www.popcap.com/games/chuzzle?whid=51:1:2:2:14</String>
+  <String id="FeaturedGame2_1Link">http://www.popcap.com/games/bejeweledtwist/?whid=7:2:2:3:51</String>
+  <String id="FeaturedGame2_2Link">http://www.popcap.com/games/peggle-nights?whid=51:1:2:2:36</String>
+  <String id="FeaturedGame2_3Link">http://www.popcap.com/games/zuma?whid=51:1:2:2:51</String>
+  <String id="FeaturedGame2_4Link">http://www.popcap.com/games/amazing-adventures-around-the-world?whid=51:1:2:2:2</String>
+  <String id="FeaturedGame3_1Link">http://www.popcap.com/games/bejeweledtwist/?whid=7:2:2:3:51</String>
+  <String id="FeaturedGame3_2Link">http://www.popcap.com/games/chuzzle?whid=51:1:2:2:14</String>
+  <String id="FeaturedGame3_3Link">http://www.popcap.com/games/bookworm?whid=51:1:2:2:11</String>
+  <String id="FeaturedGame3_4Link">http://www.popcap.com/games/zuma?whid=51:1:2:2:51</String>
+  <String id="FeaturedGameScreenshotBox">445,130,234,176</String>
+  <String id="FeaturedGame1_ScreenShotPath">custom/images/fg_screens/fg1/</String>
+  <String id="FeaturedGame2_ScreenShotPath">custom/images/fg_screens/fg2/</String>
+  <String id="FeaturedGame3_ScreenShotPath">custom/images/fg_screens/fg3/</String>
+  <String id="FeaturedGame1_ScreenShotNames">screenshot_1,screenshot_2,screenshot_3,screenshot_4</String>
+  <String id="FeaturedGame2_ScreenShotNames">screenshot_1,screenshot_2,screenshot_3,screenshot_4</String>
+  <String id="FeaturedGame3_ScreenShotNames">screenshot_1,screenshot_2,screenshot_3,screenshot_4</String>
+  <String id="Tip1_1Header">Kombinierhilfe</String>
+  <String id="Tip1_1Body">Starrst du auf ein Spielfeld voller glänzender Steine und kannst keine Kombinationsmöglichkeit finden? PopCap hilft dir dabei durchzublicken, wenn du einen Augenblick wartest, ohne einen Zug zu machen.</String>
+  <String id="Tip1_2Header">Energiestein</String>
+  <String id="Tip1_2Body">Du kannst dir einen explosiven Bonus holen, wenn du eine Reihe von 4 Steinen bildest!</String>
+  <String id="Tip2_1Header">Oben spielt die Musik</String>
+  <String id="Tip2_1Body">Mach so viele Kombinationen wie möglich, indem du im oberen Teil des Spielfelds anfängst. Dadurch werden potentielle Kombinationen im unteren Teil nicht gefährdet.</String>
+  <String id="Tip2_2Header">Versteckte Spielmodi</String>
+  <String id="Tip2_2Body">In jedem Spielmodus gibt es einen „versteckten Stein“. Du kannst diese versteckten Modi freischalten, wenn du ein bestimmtes Level erreichst.</String>
+  <String id="Tip3_1Header">Galaktische Überraschung</String>
+  <String id="Tip3_1Body">Reiß dich von den Planeten los und spiel im All! Du kannst jederzeit STARFIELD eingeben, um zwischen Erde und Himmel zu wechseln.</String>
+  <String id="Tip3_2Header">Extra-Energie</String>
+  <String id="Tip3_2Body">Erschaffe einen Energiestein und erhalte Extrapunkte, wenn du eine T- oder L-Form bildest. Auf diese Weise bildest du eine Kombination mit 3 Steinen und erschaffst gleichzeitig einen Energiestein.</String>
+  <String id="Tip4_1Header">Bereit zur Landung</String>
+  <String id="Tip4_1Body">Hast du einen Lieblingsplaneten? Du kannst jederzeit NETWORK eingeben, um deinen Hintergrund zu ändern. Nimm dann die rote Tablette und betritt den Planeten.</String>
+  <String id="Tip4_2Header">Retro</String>
+  <String id="Tip4_2Body">Spiel Bejeweled mit Retro-Graphiken aus der ersten Version. Du kannst jederzeit OLDSKOOL eingeben, um diesen galaktischen Blick in die Vergangenheit freizuschalten.</String>
+  <String id="Tip5_1Header">Tauch völlig ein</String>
+  <String id="Tip5_1Body">Du kannst jederzeit NOFRAME eingeben, um den Navigationsbereich und den Bildschirmrand auszublenden und eine Vollansicht der beeindruckenden Planetenhintergründe zu erhalten. Was für eine Augenweide!</String>
+  <String id="Tip5_2Header">Kraftstein-Platzierung</String>
+  <String id="Tip5_2Body">Wenn Kraftsteine explodieren, zerstören sie alle Steine um sich herum. Pass auf, dass du Kraftsteine und Superwürfel nicht zu nah aneinander legst, sonst modeln sie zu früh dein gesamtes Spielfeld um.</String>
+  <String id="Tip6_1Header">Winterwunderland</String>
+  <String id="Tip6_1Body">Wechsle die Jahreszeit! Du kannst jederzeit einen schneebedeckten Planeten besuchen, wenn du XMAS eingibst.</String>
+  <String id="Tip6_2Header">Sehe und staune</String>
+  <String id="Tip6_2Body">Wie würde wohl ein Saphir in rosa aussehen? Wechsle die Farben und finde es heraus, indem du COLORSWAP eingibst.</String>
+  <String id="WelcomeScreenBody">Dein Spiel ist jetzt vollständig freigeschaltet und gehört für immer dir! Falls du dein Spiel je wieder herunterladen möchtest, kannst du auf PopCap.com.&cr;&cr;Jedes Mal, wenn du dein Spiel startest, findest du auf diesem Bildschirm Tipps, Tricks und Geheimnisse, mit denen du das Beste aus deinem Spiel herausholen kannst. Wir empfehlen dir auch andere PopCap-Titel.&cr;&cr;Viel Spaß bei deinem Spiel. Vielen Dank noch mal für dein Interesse an PopCap-Spielen!</String>
+  <String id="WelcomeScreenHeader">Danke!</String>
+  <String id="TipsTricksHeader">Tipps und Tricks</String>
+  <String id="PopularPicksHeader">Gern genommen</String>
+  <String id="FeaturedGameHeader">Spiel im Blickpunkt</String>
+  <String id="GameTitle">Bejeweled 2 Deluxe</String>
+  <String id="MessageTrialScreenPreBullet">Spiele den Nachfolger des Klassikers!</String>
+  <String id="MessageExpireScreenPreBullet">Kaufen Sie 'Bejeweled 2 Deluxe' noch heute und Sie erhalten Folgendes:</String>
+  <String id="GetMoreGamesURL">http://www.popcap.com/moregames/?whid=7:3:3:4:52</String>
+  <String id="CopyrightDisclaimer">©2004 PopCap Games, Inc. Vollständige Informationen zum Copyright und zu den Marken finden Sie in der Liesmich-Datei des&cr;Spiels. Alle Rechte vorbehalten.</String>
+</Properties>
