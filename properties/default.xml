@@ -194,7 +194,7 @@
 	<String id="HSWIDGET_ALL_TIME_HIGH_SCORES">"EWIGE" HIGHSCORES</String>
 	<String id="HSWIDGET_NEW">Noob</String>
 	<String id="HSWIDGET_JUNIOR">OK</String>
-	<String id="HSWIDGET_APPRENTICE">Middle-aded</String>
+	<String id="HSWIDGET_APPRENTICE">Middle-aged</String>
 	<String id="HSWIDGET_JOURNEYMAN">Bromide</String>
 	<String id="HSWIDGET_SENIOR">Ballin'</String>
 	<String id="HSWIDGET_EXPERT">FaZe</String>
@@ -222,13 +222,13 @@
 	<String id="HSWIDGET_SCORE">Total death toll: %s</String>
 	<String id="HSWIDGET_LEVELS_COMPLETED">Vibes checked: %d</String>
 	<String id="HSWIDGET_TIME_PLAYED">Time wasted: %d h. %d m.</String>
-	<String id="HSWIDGET_GEMS_COLLECTED">Money made from selling rocks: $%s</String>
+	<String id="HSWIDGET_GEMS_COLLECTED">Money made: $%s</String>
 	<String id="HSWIDGET_BIGGEST_CASCADE">Infinite Cascade Glitch: x %d</String>
 	<String id="HSWIDGET_BIGGEST_COMBO">Most villages destroyed: %s</String>
 	<String id="HSWIDGET_POWER_GEMS_CREATED">IED's Crafted: %s</String>
 	<String id="HSWIDGET_HYPER_GEMS_CREATED">Universal Catastophe's Created: %s</String>
 	<String id="HSWIDGET_BEST_SCORE">Most anime girls fucked: %s</String>
-	<String id="HSWIDGET_TOTAL_TIME">~Time you wasted: %d Sa. %d Dak.</String>
+	<String id="HSWIDGET_TOTAL_TIME">Time you wasted: %d years. %d months.</String>
 	<String id="HSWIDGET_PUZZLES_SOLVED_2">Conundrums completed: %d</String>
 	
 	<!-- OptionsDialog -->
