@@ -1,16 +1,16 @@
 <Properties>
 
 	<!-- Percent chance (0.0 - 1.0) that a bomb will fall -->
-	<Double  id=BombChance>		0.02	</Double>	
+	<Double  id=BombChance>		0.5	</Double>	
 	
 	<!-- Percent chance (0.0 - 1.0) that a power gem will fall -->
-	<Double  id=PowerGemChance>	0.05	</Double>	
+	<Double  id=PowerGemChance>	1.0	</Double>	
 	
 	<!-- Percent chance (0.0 - 1.0) that a rock will fall -->
 	<Double  id=RockChance>		0.01	</Double>	
 	
 	<!-- Initial countdown value of a time bomb -->
-	<Integer id=BombCountdown>	5		</Integer>
+	<Integer id=BombCountdown>	0		</Integer>
 	
 	<!-- Mininum number of gems needed in a match to create a power gem -->
 	<Integer id=MinPowerCombo>	4		</Integer>
@@ -19,19 +19,19 @@
 	<Integer id=MinWildCombo>	5		</Integer>
 	
 	<!-- Number of points for each explosion in a chain reaction -->
-	<Integer id=ExplosionChainBonus> 40 </Integer>
+	<Integer id=ExplosionChainBonus> 400 </Integer>
 	
 	<!-- Additional number of points for each extra explosion in a chain reaction -->
-	<Integer id=ExplosionChainBonusAdd> 10 </Integer>
+	<Integer id=ExplosionChainBonusAdd> 100 </Integer>
 	
 	<!-- Number of points for each normal gem in a hyper gem electrocution -->
-	<Integer id="ElectNormalBonus"> 20	</Integer>
+	<Integer id="ElectNormalBonus"> 200	</Integer>
 	
 	<!-- Number of points for each power gem in a hyper gem electrocution -->
-	<Integer id="ElectPowerBonus"> 60	</Integer>
+	<Integer id="ElectPowerBonus"> 600	</Integer>
 	
 	<!-- Number of points for each power gem in a set -->
-	<Integer id="PowerBonus">	25		</Integer>
+	<Integer id="PowerBonus">	250		</Integer>
 	
 	<!-- 
 		The following difficulty levels are represented by a BASE and
