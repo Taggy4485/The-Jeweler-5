@@ -272,7 +272,7 @@
 	<String id="WARNING">Dikkat!</String>
 	<String id="ENABLE_HARDWARE_ACCEL">Grafik kartiniz bu ozelligi tam olarak desteklemiyor olabilir.&cr;&cr;Oyun cok yavas calisiyorsa donanim hizlandirmayi devre disi birakin.&cr;&cr;Etkinlestirmek istediginizden emin misiniz?</String>
 	<String id="DISABLE_ACCELERATION">Hizlandirma devre disi birakilsin mi?</String>
-	<String id="DISABLE_ACCELERATION_NOT_RECOMMENDED">Donanim hizlandirmayi devre disi birakmaniz önerilmez, performansin düsmesine neden olabilir.&cr;&cr;Yine de devre disi birakilsin mi?</String>
+	<String id="DISABLE_ACCELERATION_NOT_RECOMMENDED">your pc is too shit to run this somehow, what are you, fucking toby?</String>
 	<String id="AUTOMATIC_UPDATE_?">Otomatik guncelleme</String>
 	<String id="ENABLING_AUTO_UPDATE_DM2">Otomatik güncelleme etkinlestirilirse DIAMOND MINE 2, her baslatildiginda güncellemeleri kontrol eder. Modem kullanicilari icin bu önerilmez.&cr;&cr;Otomatik güncelleme etkinlestirilsin mi?</String>
 	<String id="ENABLING_AUTO_UPDATE_BEJ2">Otomatik güncelleme etkinlestirilirse BEJEWELED 2, her baslatildiginda güncellemeleri kontrol eder. Modem kullanicilari icin bu önerilmez.&cr;&cr;Otomatik güncelleme etkinlestirilsin mi?</String>
