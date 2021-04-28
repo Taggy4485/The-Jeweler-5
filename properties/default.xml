@@ -267,8 +267,8 @@
 	<String id="CHANGE_RESOLUTION_?">enable 8k textures?</String>
 	<String id="DISABLE_HIGH_RESOLUTION_WINDOWED">Yuksek cozunurluk, pencereli mod icin devre disi birakilmalidir.&cr;&cr;Devre disi birakilsin mi?</String>
 	<String id="ENABLE_HIGH_RESOLUTION_FULL_SCREEN">Tam ekran modunda yuksek cozunurluk modu onerilir.&cr;&cr;Etkinlestirilsin mi?</String>
-	<String id="NOT_SUPPORTED">Desteklenmiyor</String>
-	<String id="HARDWARE_ACCEL_DISABLED">Donanım hizlandirma bu bilgisayarda etkinlestirilemez.&cr;&cr;Grafik kartiniz bu oyun icin asgari gereksinimleri karsilamiyor.</String>
+	<String id="NOT_SUPPORTED">How the fuck can you not run this?</String>
+	<String id="HARDWARE_ACCEL_DISABLED">your pc is too shit to run this somehow, what are you, fucking toby?.&cr;&cr;Grafik kartiniz bu oyun icin asgari gereksinimleri karsilamiyor.</String>
 	<String id="WARNING">Dikkat!</String>
 	<String id="ENABLE_HARDWARE_ACCEL">Grafik kartiniz bu ozelligi tam olarak desteklemiyor olabilir.&cr;&cr;Oyun cok yavas calisiyorsa donanim hizlandirmayi devre disi birakin.&cr;&cr;Etkinlestirmek istediginizden emin misiniz?</String>
 	<String id="DISABLE_ACCELERATION">Hizlandirma devre disi birakilsin mi?</String>
