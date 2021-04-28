@@ -284,7 +284,7 @@
 	<String id="ENABLING_RANDOM_BACKDROPS">It's 2 quid for a ticket.&cr;&cr;You still wanna enter?</String>
 	
 	<!-- PuzzlePackSelector -->
-	<String id="SELECT_PUZZLE_PACK">Yapboz paketi secin</String>
+	<String id="SELECT_PUZZLE_PACK">Bored of the same puzzles i see?</String>
 	<String id="PLAY">OYNA</String>
 	
 	<!-- RecordScoreDialog -->
