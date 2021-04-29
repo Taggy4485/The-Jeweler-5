@@ -55,7 +55,7 @@
 	
 	<!-- Board -->
 	<String id="EXCELLENT">FUCKIN CLASS!</String>
-	<String id="NO_MOVES">NO MORE MOVES!</String>
+	<String id="NO_MOVES">BAD LUCK BRUCE!</String>
 	<String id="LEVEL_">SURVIVED FOR %d SECS</String>
 	<String id="GO">GO!!!!!!!</String>
 	<String id="TIME_UP">WAKE UP!</String>
@@ -92,32 +92,32 @@
 	<String id="NO_LONGER_SOLVABLE">Bro, you can't solve this xd</String>
 	<String id="UNDO_TO_SOLVABLE">Might wanna go back in time to fix that.</String>
 	<String id="STILL_SOLVABLE">BITCH THIS SHIT SOLVABLE!</String>
-	<String id="STILL_SOLVABLE_HINT">STILL SOLVABLE&cr;HINT?</String>
+	<String id="STILL_SOLVABLE_HINT">LOL u dumb as fuck&cr;Want a (B)int?</String>
 	<String id="_PLANETS_LEFT">%d NUGGETS LEFT</String>
 	<String id="LEVEL">VIBE %d</String>
-	<String id="INCREDIBLE">YOOOOOOOO!!!</String>
+	<String id="INCREDIBLE">CYOAR FUCK ME!</String>
 	<String id="MORE_HINTS">Want some hints bud?</String>
 	<String id="ONE_OR_MORE_MOVES_UNDONE">Bu yapbozun cozulebilmesi icin en az bir veya daha fazla hamle geri alindi.&cr;&cr;Hangi hamlenin devam etmek icin en iyi yol oldugunu gormek istiyorsaniz "Ipucu" butonuna tekrar tiklayin.</String>
 	<String id="BACK_MAIN_MENU">Back to the Central Hub</String>
-	<String id="PRESS_WARP">cmon warp already!</String>
-	<String id="PRESS_WARP_1">Warpage &cr;I cannot ready any of this document!</String>
+	<String id="PRESS_WARP">Mate get out of this craphole lol</String>
+	<String id="PRESS_WARP_1">WAP DRIVE READY! &cr;The warp drive burns 8 tons of polonium on activation lol</String>
 	<String id="BEAT_PUZZLE">You beat the puzzle like you beat your wife!</String>
 	<String id="SELECT_PUZZLE">Hurry up and pick a puzzle.</String>
 	<String id="NO_MOVES_POSSIBLE">What? Impossible! Moves are all gone?!</String>
 	<String id="UNDO_1">uhhhhhhh. &cr;I think this means you can undo but honestly i dunno</String>
 	<String id="PRESS_HINT_1">Press a hit or something &cr;lol,</String>
 	<String id="OR">OR</String>
-	<String id="UNDO_2">WHAT DOES THIS MEAN??? &cr;BEJEWELED 2 DOES NOT HAVE THIS MUCH TEXT.</String>
+	<String id="UNDO_2">lol bad luck you fucked up big time &cr;dont worry we can go back and fix the bitchass mistake you made</String>
 	<String id="RESET">AAAAAAAAAAAAA &cr;RESET.</String>
 	<String id="PRESS_HINT_2">Bu noktada artik hamle yapilamaz. &cr; "GERI AL" butonuyla birkac hamleyi geri alin &cr;ya da yapboza bastan baslamak icin &cr;yapbozun secili oldugu yuvarlaga tiklayin. &cr;Ne yapacaginizi bilmiyorsaniz "IPUCU" butonuna tiklayin!</String>
 	<String id="COGNITO">COGNITO MODE ISN'T REAL. &cr;%d I AM SURROUNDED BY NUMBERS %d 'AAAAAAAAAAA.</String>
 	<String id="PUZZLES_SOLVED_1">%d I AM ALSO SURRONDED BY NUMBERS %d 'i HELMP.</String>
 	<String id="GALAXY_COMPLETED">GALAXY BLOWN UP LOL</String>
 	<String id="WARNING_!">WOAH STOP!</String>
-	<String id="NOT_SCORE">NOT SCORE.&cr;&cr;idk thats what the id of this string is xd.</String>
+	<String id="NOT_SCORE">CHEATERS DON'T GET POINTS.&cr;&cr;solve it yourself you needy whore!</String>
 	<String id="TIMER_BAR">Yeah yeah, theres a timer or something.</String>
 	<String id="WATCH_OUT_FOR_TIMER_BAR">if the timer runs out i will eliminate everyone you love!</String>
-	<String id="FINAL_PLANET">SPACE THE FINAL FRONTIER</String>
+	<String id="FINAL_PLANET">THE FINAL FUCK</String>
 	
 	<!-- CreateUserDialog -->
 	<String id="PLEASE_ENTER_NAME">What ya called g?</String>
@@ -227,7 +227,7 @@
 	<String id="HSWIDGET_BIGGEST_COMBO">Most villages destroyed: %s</String>
 	<String id="HSWIDGET_POWER_GEMS_CREATED">IED's Crafted: %s</String>
 	<String id="HSWIDGET_HYPER_GEMS_CREATED">Universal Catastophe's Created: %s</String>
-	<String id="HSWIDGET_BEST_SCORE">Most anime girls fucked: %s</String>
+	<String id="HSWIDGET_BEST_SCORE">Anime girls fucked: %s</String>
 	<String id="HSWIDGET_TOTAL_TIME">Time you wasted: %d years. %d months.</String>
 	<String id="HSWIDGET_PUZZLES_SOLVED_2">Conundrums completed: %d</String>
 	
@@ -265,8 +265,8 @@
 	<String id="FULL_SCREEN_ENABLED">Uhhh options yes.&cr;&cr;maybe?</String>
 	<String id="WINDOWED_MODE_NOT_AVAIL">You cant go windowed because your pc sucks ass.</String>
 	<String id="CHANGE_RESOLUTION_?">enable 8k textures?</String>
-	<String id="DISABLE_HIGH_RESOLUTION_WINDOWED">Yuksek cozunurluk, pencereli mod icin devre disi birakilmalidir.&cr;&cr;Devre disi birakilsin mi?</String>
-	<String id="ENABLE_HIGH_RESOLUTION_FULL_SCREEN">Tam ekran modunda yuksek cozunurluk modu onerilir.&cr;&cr;Etkinlestirilsin mi?</String>
+	<String id="DISABLE_HIGH_RESOLUTION_WINDOWED">You are about to enter toby mode.&cr;&cr;Dare you really really sure you wanna do this?</String>
+	<String id="ENABLE_HIGH_RESOLUTION_FULL_SCREEN">Make sure you have an RTX Ready card to play in high resolution.&cr;&cr;Etkinlestirilsin mi?</String>
 	<String id="NOT_SUPPORTED">How the fuck can you not run this?</String>
 	<String id="HARDWARE_ACCEL_DISABLED">your pc is too shit to run this somehow, what are you, fucking toby?.&cr;&cr;Grafik kartiniz bu oyun icin asgari gereksinimleri karsilamiyor.</String>
 	<String id="WARNING">Dikkat!</String>
