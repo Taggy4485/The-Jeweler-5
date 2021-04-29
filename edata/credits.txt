@@ -1,6 +1,6 @@
-***** The Jeweler 5 CREDITS *****
+***** BEJEWELED 2 CREDITS *****
 
-- Created by some wanker -
+- Created by PopCap Games -
 
 
 Game Design
@@ -13,11 +13,6 @@ ___________
 Brian Fiete
 
 
-Technical Assistance
-_________________
-David Parton
-
-
 Art
 ___________
 Josh Langley
@@ -25,11 +20,11 @@ Walter Wilson
 
 
 Planetary Backdrops
-_________________
+______________
 Armands Auseklis
 
 
-The best man to ever exist ever
+Music
 ___________
 Skaven
 
