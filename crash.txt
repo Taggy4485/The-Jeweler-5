@@ -1,25 +1,25 @@
-Exception: Integer Divide by Zero (code 0xc0000094) at address 0041F3C7 in thread 3BF0
+Exception: Access Violation (code 0xc0000005) at address 0042E4BD in thread 3144
 Module: Bejeweled2.exe
-Logical Address: 0001:0001E3C7
+Logical Address: 0001:0002D4BD
 
-0019FB94 0041F3C7 0001:0001E3C7 Bejeweled2.exe
-Params: 0019FC18 02D1AD98 0000003D 004FBF34
+0019F97C 0042E4BD 0001:0002D4BD Bejeweled2.exe
+Params: 0C686BA4 0C6714D0 0061E97A 4C72DD37
 
 
-EAX:00000000 EBX:00000000 ECX:00000000 EDX:00000000 ESI:02D1AD98 EDI:000002C4
-EIP:0041F3C7 ESP:0019FA00  EBP:0019FB94
+EAX:00000000 EBX:0F3980B8 ECX:00000000 EDX:0019F808 ESI:00000001 EDI:00000000
+EIP:0042E4BD ESP:0019F550  EBP:0019F97C
 CS:0023 SS:002B DS:002B ES:002B FS:0053 GS:002B
 Flags:00010246
 
 Windows Ver: NT 6.2  Build 9200
-DDraw Ver: 
-DSound Ver: 
+DDraw Ver: 10.0.19041.1
+DSound Ver: 10.0.19041.1
 
 Product: Bejeweled2
 Version: 1.1
-Time Loaded: 00:00:19
-Fullscreen: Yes
-Primary ThreadId: 3BF0
+Time Loaded: 00:00:29
+Fullscreen: No
+Primary ThreadId: 3144
 Times Played: 0
 Build Num: 0
 Build Date: 
