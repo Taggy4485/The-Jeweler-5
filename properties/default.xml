@@ -56,7 +56,7 @@
 	<!-- Board -->
 	<String id="EXCELLENT">FUCKIN CLASS!</String>
 	<String id="NO_MOVES">NO MORE MOVES!</String>
-	<String id="LEVEL_">SPECIAL STAGE %d</String>
+	<String id="LEVEL_">SURVIVED FOR %d SECS</String>
 	<String id="GO">GO!!!!!!!</String>
 	<String id="TIME_UP">WAKE UP!</String>
 	<String id="GAME_PAUSED">*** Mate, the game's stopped ***</String>
