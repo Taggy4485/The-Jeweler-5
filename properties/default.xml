@@ -55,7 +55,7 @@
 	
 	<!-- Board -->
 	<String id="EXCELLENT">FUCKIN CLASS!</String>
-	<String id="NO_MOVES">BAD LUCK BRUCE!</String>
+	<String id="NO_MOVES">HEART FALIURE</String>
 	<String id="LEVEL_">SURVIVED FOR %d SECS</String>
 	<String id="GO">GO!!!!!!!</String>
 	<String id="TIME_UP">WAKE UP!</String>
